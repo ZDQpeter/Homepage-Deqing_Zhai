@@ -8,7 +8,7 @@ In my bachelor study, I specialized in control systems and clean energy branches
 
 In my Ph.D study, I focused on machine learning and optimization algorithms in the applications of smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter, NTU Astronomy Society.
 
-After graduation, I joined in Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR) as a research scientist from 2018 until present. The reserach direction is focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime and industrial production line, etc.
+After graduation, I joined in Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction is focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime and industrial production line, etc.
 
 
 
