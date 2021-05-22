@@ -58,7 +58,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 
 # Publications
 
-Journal:
+1. Journal:
 
 [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
 
@@ -83,7 +83,7 @@ Journal:
 [11] C. Jiang, Y. C. Soh, H. Li, M. K. Masood, Z. Wei, X. Zhou, D. Zhai, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, 2017.
 
 
-Conference:
+2. Conference:
 
 [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and W. Zhang, “Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation,” 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), (2020).
 
