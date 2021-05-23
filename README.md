@@ -18,11 +18,9 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     1) Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, K Nearest Neighbour, Random Forest, Gradient Boost, XGBoost.
     2) Unsupervised Learning: Multi Decomposed Gaussian Sampling, K-Means, Principal Component Analysis.
     3) Reinforcement Learning: Policy Gradient, Q-Learning.
-
 ## 2. Optimization Algorithms: 
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
-
 ## 3. Mathematics and Physics: 
     1) Proof lemma and theorem.
     2) Solve real-life interesting problems.
@@ -35,33 +33,28 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     2) Evaluate energy consumption on different operating schemes.
     3) Evaluate environmental parameter effects on different operating schemes.
     4) Optimize multi-objective on energy efficiency and thermal comfort for operating ACMV systems.
-
-## 2. Thermal Comfort Evaluation
+## 2. Thermal Comfort
     1) Develop passive approach physics modelling based on Fanger's environmental parameters.
     2) Develop active approach ML modelling based on occupant's physiological parameters.
     3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters.
-
-## 3. Tanker Shipping Problem
+## 3. Maritime Operational Research
     1) Develop predictive modeling on durations of cargo operations for vessel berthing at terminals.
     2) Develop predictive modeling on expected time to unberth (ETUB) for vessel berthing at terminals.
     3) Schedule and optimize on terminal/berth/vessel utilization given a desired time window and scenarios.
     4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port.
     5) Minimize wait time and turnaround time of vessels
-
-## 4. Maritime Traffic Problem
+## 4. Maritime Traffic
     1) Identify trajectory patterns of vessels.
     2) Identify key locations of potential collision situational awareness.
     3) Develop stay location and duration detection based on automatic identification system (AIS).
     4) Develop route identification and waypoints for global traffic trajectories.
     5) Develop predictive modeling on estimated time of arrival (ETA) of vessels.
-
-## 5. Hyper-Personalized Line Problem
+## 5. Hyper-Personalized Line
     1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
     2) Develop predictive modeling on cycletime of production line ML-based.
     3) Develop predictive modeling on cycletime of production line hybrid-based.
     4) Develop scheduling and re-scheduling models of different scenarios during production.
-
-## 6. Quantum Computing Problem
+## 6. Quantum Computing
     1) Explore to learn quantum algorithms.
     2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
     3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
@@ -81,8 +74,6 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     [9] G. Jing, W. Cai, H. Chen, D. Zhai, C. Cui, X. Yin, “An air balancing method using support vector machine for a ventilation system,” Building and Environment, vol. 143, pp. 487-495, 2018
     [10] X. Ou, W. Cai, X. He, X. Wang and D. Zhai, “A dynamic modeling of liquid desiccant cooling and dehumidification system for control and optimization,” Energy and Buildings, vol. 163, pp. 44–57, 2017.
     [11] C. Jiang, Y. C. Soh, H. Li, M. K. Masood, Z. Wei, X. Zhou, D. Zhai, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, 2017.
-
-
 ## 2. Conference:
     [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and W. Zhang, “Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation,” 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), (2020).
     [2] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and R. Goh, “Digitalisation and predictive modelling of berth stay time windows for tanker operation enhancement,” MTEC – ICMASS (2019).
