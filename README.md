@@ -29,30 +29,39 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 
 
 
-
 # Projects
-## 1. Tanker Shipping Problem
+## 1. Air-Conditioning and Mechanical Ventilation (ACMV) Systems
+    1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WHU) and Condenser.
+    2) Evaluate energy consumption on different operating schemes.
+    3) Evaluate environmental parameter effects on different operating schemes.
+    4) Optimize multi-objective on energy efficiency and thermal comfort for operating ACMV systems.
+
+## 2. Thermal Comfort Evaluation
+    1) Develop passive approach physics modelling based on Fanger's environmental parameters.
+    2) Develop active approach ML modelling based on occupant's physiological parameters.
+    3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters.
+
+## 3. Tanker Shipping Problem
     1) Develop predictive modeling on durations of cargo operations for vessel berthing at terminals.
     2) Develop predictive modeling on expected time to unberth (ETUB) for vessel berthing at terminals.
     3) Schedule and optimize on terminal/berth/vessel utilization given a desired time window and scenarios.
     4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port.
     5) Minimize wait time and turnaround time of vessels
 
-
-## 2. Maritime Traffic Problem
+## 4. Maritime Traffic Problem
     1) Identify trajectory patterns of vessels.
     2) Identify key locations of potential collision situational awareness.
     3) Develop stay location and duration detection based on automatic identification system (AIS).
     4) Develop route identification and waypoints for global traffic trajectories.
     5) Develop predictive modeling on estimated time of arrival (ETA) of vessels.
 
-## 3. Hyper-Personalized Line Problem
+## 5. Hyper-Personalized Line Problem
     1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
     2) Develop predictive modeling on cycletime of production line ML-based.
     3) Develop predictive modeling on cycletime of production line hybrid-based.
     4) Develop scheduling and re-scheduling models of different scenarios during production.
 
-## 4. Quantum Computing Problem
+## 6. Quantum Computing Problem
     1) Explore to learn quantum algorithms.
     2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
     3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
@@ -87,5 +96,5 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 
 
 
-Updated on 2021-05-23, 18:26 (UTC+08:00)
+Updated on 2021-05-23, 21:49 (UTC+08:00)
 
