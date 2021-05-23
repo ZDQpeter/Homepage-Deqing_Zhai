@@ -15,7 +15,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 
 # Research Interests
 
-1. Machine Learning:
+## 1. Machine Learning:
 
     1) Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, K Nearest Neighbour, Random Forest, Gradient Boost, XGBoost.
     
@@ -23,13 +23,13 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     
     3) Reinforcement Learning: Policy Gradient, Q-Learning.
 
-2. Optimization Algorithms: 
+## 2. Optimization Algorithms: 
 
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
     
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
 
-3. Mathematics and Physics: 
+## 3. Mathematics and Physics: 
 
     1) Proof lemma and theorem.
     
@@ -40,7 +40,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 
 # Projects
 
-1. Tanker Shipping Problem
+## 1. Tanker Shipping Problem
 
     1) Develop predictive modeling on cargo operations.
    
@@ -53,7 +53,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     5) Minimize wait time and turnaround time of vessels
 
 
-2. Maritime Traffic Problem
+## 2. Maritime Traffic Problem
 
     1) Identify trajectory patterns of vessels.
     
@@ -65,7 +65,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     
     5) Develop predictive modeling on estimated time of arrival (ETA) of vessels.
 
-3. Hyper-Personalized Line Problem
+## 3. Hyper-Personalized Line Problem
 
     1) Develop predictive modeling on cycletime of production line physics-based.
     
@@ -75,7 +75,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     
     4) Develop scheduling and re-scheduling models of different scenarios during production.
 
-4. Quantum Computing Problem
+## 4. Quantum Computing Problem
 
     1) Explore to learn quantum algorithms.
     
@@ -87,7 +87,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 
 # Publications
 
-1. Journal:
+## 1. Journal:
 
     [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
 
@@ -112,7 +112,7 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
     [11] C. Jiang, Y. C. Soh, H. Li, M. K. Masood, Z. Wei, X. Zhou, D. Zhai, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, 2017.
 
 
-2. Conference:
+## 2. Conference:
 
     [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and W. Zhang, “Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation,” 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), (2020).
 
@@ -136,4 +136,4 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 
 
 
-Updated on 2021-05-23, 12:00 (UTC+08:00)
+Updated on 2021-05-23, 17:00 (UTC+08:00)
