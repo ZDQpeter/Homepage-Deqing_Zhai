@@ -8,7 +8,7 @@ In my bachelor study, I specialized in control systems and clean energy branches
 
 In my Ph.D study, I focused on machine learning and optimization algorithms in the applications of smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.
 
-I had been joining in Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime and industrial production line, etc. Besides the abovementioned, I had also joined in academic societies, such as IEEE Singapore Section, IEEE Young Professionals and IEEE Industrial Electronics Society. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
+I had been joining in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime and industrial production line, etc. Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals and IEEE Industrial Electronics Society. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
 
 
 
@@ -95,5 +95,5 @@ I had been joining in Institute of High Performance Computing (IHPC), Agency for
 
 
 
-Updated on 2021-05-23, 21:56 (UTC+08:00)
+Updated on 2021-05-23, 22:15 (UTC+08:00)
 
