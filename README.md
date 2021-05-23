@@ -43,31 +43,44 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 1. Tanker Shipping Problem
 
     1) Develop predictive modeling on cargo operations.
+   
     2) Develop predictive modeling on expected time to unberth (ETUB) of vessels.
+    
     3) Schedule and optimize on terminal/berth/vessel utilization.
+    
     4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port.
+    
     5) Minimize wait time and turnaround time of vessels
 
 
 2. Maritime Traffic Problem
 
     1) Identify trajectory patterns of vessels.
+    
     2) Identify key locations of near miss collisions.
+    
     3) Develop stay location detection based on automatic identification system (AIS).
+    
     4) Develop route identification and waypoints for global traffic paths.
+    
     5) Develop predictive modeling on estimated time of arrival (ETA) of vessels.
 
 3. Hyper-Personalized Line Problem
 
     1) Develop predictive modeling on cycletime of production line physics-based.
+    
     2) Develop predictive modeling on cycletime of production line ML-based.
+    
     3) Develop predictive modeling on cycletime of production line hybrid-based.
+    
     4) Develop scheduling and re-scheduling models of different scenarios during production.
 
 4. Quantum Computing Problem
 
     1) Explore to learn quantum algorithms.
+    
     2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO.
+    
     3) Explore to develop classical-quantum hybrid algorithms for use-cases with less computational efforts.
 
 
