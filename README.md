@@ -4,7 +4,7 @@ Good day. Welcome to my homepage.
 
 I graduated both bachelor and Ph.D degrees in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in the year of 2014 and 2018, respectively.
 
-In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and Astronomy Society.
+In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.
 
 In my Ph.D study, I focused on machine learning and optimization algorithms in the applications of smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter, NTU Astronomy Society.
 
@@ -18,17 +18,21 @@ After graduation, I joined in Institute of High Performance Computing (IHPC), Ag
 1. Machine Learning:
 
     1) Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, K Nearest Neighbour, Random Forest, Gradient Boost, XGBoost.
+    
     2) Unsupervised Learning: Multi Decomposed Gaussian Sampling, K-Means, Principal Component Analysis.
+    
     3) Reinforcement Learning: Policy Gradient, Q-Learning.
 
 2. Optimization Algorithms: 
 
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
+    
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
 
 3. Mathematics and Physics: 
 
     1) Proof lemma and theorem.
+    
     2) Solve real-life interesting problems.
 
 
