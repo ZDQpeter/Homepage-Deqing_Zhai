@@ -10,8 +10,7 @@ In my Ph.D study, I focused on machine learning and optimization algorithms in t
 
 I had been joining in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime and industrial production line, etc. Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals and IEEE Industrial Electronics Society. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
 
-
-
+-------------------------------------------------------------------
 
 # Research Interests
 ## 1. Machine Learning:
@@ -27,7 +26,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     1) Proof lemma and theorem.
     2) Solve real-life interesting problems.
 
-
+-------------------------------------------------------------------
 
 # Projects
 ## 1. Air-Conditioning and Mechanical Ventilation (ACMV) Systems
@@ -66,7 +65,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
     3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
 
-
+-------------------------------------------------------------------
 
 # Publications
 ## 1. Journal:
@@ -95,5 +94,5 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 
 
-Updated on 2021-05-23, 22:15 (UTC+08:00)
+Updated on 2021-05-24, 16:57 (UTC+08:00)
 
