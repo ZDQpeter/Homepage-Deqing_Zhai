@@ -23,7 +23,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
     
-## 3. Mathematics and Physics: 
+## 3. Mathematics & Physics (Hobby): 
     1) Proof lemma and theorem.
     2) Solve real-life interesting problems.
 
