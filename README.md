@@ -94,6 +94,6 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [9] D. Zhai and Y. C. Soh, “Research on indoor air-flow measurements and predictions with different methods,” 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56(2015).
 
 
-Any enquiry, please email me through the address as follows: dzhai001@e.ntu.edu.sg
+Any enquiry, please email me through: dzhai001@e.ntu.edu.sg.
 
 Updated on 2021-05-25, 11:33 (UTC+08:00)
