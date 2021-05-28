@@ -9,7 +9,7 @@ In my bachelor study, I specialized in control systems and clean energy branches
 
 In my Ph.D study, I focused on machine learning and optimization algorithms in the applications of smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.
 
-I had been joining in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime and industrial production line, etc. Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals and IEEE Industrial Electronics Society. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
+I had been joining in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime, supply chain, logistics and industrial production line, etc. Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals and IEEE Industrial Electronics Society. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
 
 -------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port.
     5) Minimize wait time and turnaround time of vessels.
     
-## 4. Maritime Traffic
+## 4. Maritime Supply Chain and Logistics
     1) Identify trajectory patterns of vessels.
     2) Identify key locations of potential collision situational awareness.
     3) Develop stay location and duration detection based on automatic identification system (AIS).
@@ -96,4 +96,4 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 Any enquiry, please email me through: dzhai001@e.ntu.edu.sg.
 
-Updated on 2021-05-25, 11:33 (UTC+08:00)
+Updated on 2021-05-28, 14:33 (UTC+08:00)
