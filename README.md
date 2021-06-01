@@ -1,4 +1,5 @@
 -------------------------------------------------------------------
+-------------------------------------------------------------------
 # About Deqing Zhai
 
 Good day. Welcome to my homepage. 
@@ -11,6 +12,7 @@ In my Ph.D study, I focused on machine learning and optimization algorithms in t
 
 I had been joining in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime, supply chain, logistics and industrial production line, etc. Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals and IEEE Industrial Electronics Society. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
 
+-------------------------------------------------------------------
 -------------------------------------------------------------------
 
 # Research Interests
@@ -29,6 +31,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 
 
+-------------------------------------------------------------------
 -------------------------------------------------------------------
 
 # Project Overview
@@ -77,6 +80,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
 
 -------------------------------------------------------------------
+-------------------------------------------------------------------
 
 # Publications
 ## 1. Journal:
@@ -104,7 +108,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [9] D. Zhai and Y. C. Soh, “Research on indoor air-flow measurements and predictions with different methods,” 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56(2015).
 
 
-
+-------------------------------------------------------------------
 -------------------------------------------------------------------
 
 Any enquiry, please email me through: dzhai001@e.ntu.edu.sg.
