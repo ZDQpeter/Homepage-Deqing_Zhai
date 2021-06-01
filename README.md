@@ -46,7 +46,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 
 
-# Project Details
+# Research Details
 ## 1. Air-Conditioning and Mechanical Ventilation (ACMV) Systems
     1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WHU) and Condenser.
     2) Evaluate energy consumption on different operating schemes.
