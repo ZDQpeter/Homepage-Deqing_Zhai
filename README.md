@@ -39,6 +39,10 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [2] Chilled Ceiling Air-Conditioning System for Tropical Climates. (ERI@N, NTU: 2018)
     [3] Energy Modelling and Simulation of NTU Campus Buildings for Future Renovations in Singapore. (ERI@N, NTU: 2018)
     [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore. (IHPC, A*STAR: 2018-2020)
+    [5] Estmated Time to Un-Berth Prediction for Terminals in Singapore. (IHPC, A*STAR: 2020-2021)
+    [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
+    [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
+
 
 
 
