@@ -31,10 +31,10 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 -------------------------------------------------------------------
 
-# Projects
+# Project Overview
     [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution. (EEE, NTU: 2014-2018)
-    [2] Chilled ceiling air-conditioning system for tropical climates. (ERI@N, NTU: 2018)
-    [3] Energy modelling and simulation of NTU campus buildings for future renovations in Singapore. (ERI@N, NTU: 2018)
+    [2] Chilled Ceiling Air-Conditioning System for Tropical Climates. (ERI@N, NTU: 2018)
+    [3] Energy Modelling and Simulation of NTU Campus Buildings for Future Renovations in Singapore. (ERI@N, NTU: 2018)
     [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore. (IHPC, A*STAR: 2018-2020)
 
 
@@ -106,6 +106,8 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [9] D. Zhai and Y. C. Soh, “Research on indoor air-flow measurements and predictions with different methods,” 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56(2015).
 
 
+
+-------------------------------------------------------------------
 
 Any enquiry, please email me through: dzhai001@e.ntu.edu.sg.
 
