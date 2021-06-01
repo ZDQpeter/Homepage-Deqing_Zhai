@@ -27,9 +27,21 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     1) Proof lemma and theorem.
     2) Solve real-life interesting problems.
 
+
+
 -------------------------------------------------------------------
 
 # Projects
+    [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution. (EEE, NTU: 2014-2018)
+    [2] Chilled ceiling air-conditioning system for tropical climates. (ERI@N, NTU: 2018)
+    [3] Energy modelling and simulation of NTU campus buildings for future renovations in Singapore. (ERI@N, NTU: 2018)
+    [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore. (IHPC, A*STAR: 2018-2020)
+
+
+
+-------------------------------------------------------------------
+
+# Project Details
 ## 1. Air-Conditioning and Mechanical Ventilation (ACMV) Systems
     1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WHU) and Condenser.
     2) Evaluate energy consumption on different operating schemes.
@@ -92,15 +104,6 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [7] D. Zhai and Y. C. Soh, “Balancing indoor thermal comfort and energy consumption of air-conditioning and mechanical ventilation systems via sparse Firefly algorithm optimization,” 2017IEEE30th International Joint Conference on Neural Networks (IJCNN), pp. 1488–1494(2017).
     [8] D. Zhai, Y. C. Soh and W. Cai, “Operating points as communication bridge between energy evaluation with air temperature and velocity based on extreme learning machine (ELM) models,” 2016 IEEE 11th International Conference on Industrial Electronics and Applications (ICIEA), pp. 712–716(2016).
     [9] D. Zhai and Y. C. Soh, “Research on indoor air-flow measurements and predictions with different methods,” 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56(2015).
-
-
--------------------------------------------------------------------
-
-# Projects
-    [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution. (EEE, NTU: 2014-2018)
-    [2] Chilled ceiling air-conditioning system for tropical climates. (ERI@N, NTU: 2018)
-    [3] Energy modelling and simulation of NTU campus buildings for future renovations in Singapore. (ERI@N, NTU: 2018)
-    [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore. (IHPC, A*STAR: 2018-2020)
 
 
 
