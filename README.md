@@ -30,21 +30,8 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     2) Solve real-life problems and build up DIY projects.
 
 
-
 -------------------------------------------------------------------
 -------------------------------------------------------------------
-
-# Project Overview
-    [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution. (EEE, NTU: 2014-2018)
-    [2] Chilled Ceiling Air-Conditioning System for Tropical Climates. (ERI@N, NTU: 2018)
-    [3] Energy Modelling and Simulation of NTU Campus Buildings for Future Renovations in Singapore. (ERI@N, NTU: 2018)
-    [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore. (IHPC, A*STAR: 2018-2020)
-    [5] Estmated Time to Un-Berth Prediction for Terminals in Singapore. (IHPC, A*STAR: 2020-2021)
-    [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
-    [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
-
-
-
 
 # Research Details
 ## 1. Air-Conditioning and Mechanical Ventilation (ACMV) Systems
@@ -82,6 +69,20 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     1) Explore to learn quantum algorithms.
     2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
     3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
+    
+    
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+# Project Overview
+    [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution. (EEE, NTU: 2014-2018)
+    [2] Chilled Ceiling Air-Conditioning System for Tropical Climates. (ERI@N, NTU: 2018)
+    [3] Energy Modelling and Simulation of NTU Campus Buildings for Future Renovations in Singapore. (ERI@N, NTU: 2018)
+    [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore. (IHPC, A*STAR: 2018-2020)
+    [5] Estmated Time to Un-Berth Prediction for Terminals in Singapore. (IHPC, A*STAR: 2020-2021)
+    [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
+    [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
+
 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
