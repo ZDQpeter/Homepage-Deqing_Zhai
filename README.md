@@ -25,7 +25,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     
 ## 3. Mathematics & Physics (Hobby): 
     1) Proof lemma and theorem.
-    2) Solve real-life interesting problems.
+    2) Solve real-life problems and build up DIY projects.
 
 
 
