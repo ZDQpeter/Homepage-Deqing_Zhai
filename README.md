@@ -82,6 +82,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [5] Estmated Time to Un-Berth Prediction for Terminals in Singapore. (IHPC, A*STAR: 2020-2021)
     [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
     [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
+    [8] Singapore Food Agency: Food Supply Chain - Proof of Concept (IHPC, A*STAR: 2021-Present)
 
 
 -------------------------------------------------------------------
