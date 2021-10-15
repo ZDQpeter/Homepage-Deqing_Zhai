@@ -57,7 +57,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     2) Identify key locations of potential collision situational awareness.
     3) Develop stay location and duration detection based on automatic identification system (AIS).
     4) Develop route identification and waypoints for global traffic trajectories.
-    5) Develop predictive modeling on estimated time of arrival (ETA) of vessels.
+    5) Develop physics-based predictive modeling on estimated time of arrival (ETA) of vessels.
     
 ## 5. Hyper-Personalized Line
     1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
