@@ -25,9 +25,9 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
     
-## 3. Mathematics & Physics (Hobby): 
-    1) Proof lemma and theorem.
-    2) Solve real-life problems and build up DIY projects.
+## 3. Hobby: 
+    1) Solve real-life problems
+    2) Build up DIY projects
 
 
 -------------------------------------------------------------------
@@ -70,6 +70,10 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
     3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
     
+## 7. Food Supply Chain (POC)
+    1) Perform data analyses on the food supply
+    2) Develop predictive models of food imported
+    3) Develop supply chain associative net works of food imported
     
 -------------------------------------------------------------------
 -------------------------------------------------------------------
@@ -82,7 +86,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [5] Estmated Time to Un-Berth Prediction for Terminals in Singapore. (IHPC, A*STAR: 2020-2021)
     [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
     [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
-    [8] Singapore Food Agency: Food Supply Chain - Proof of Concept (IHPC, A*STAR: 2021-Present)
+    [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
 
 
 -------------------------------------------------------------------
@@ -90,17 +94,18 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 # Publications
 ## 1. Journal:
-    [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
-    [2] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Predicting Berth Stay for Tanker Terminals: An Intelligent Multi-modal Data Driven Approach”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
-    [3] D. Zhai, T. Chaudhuri and Y. C. Soh, “Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies,” Building and Environment, vol. 125, pp. 129-142, 2017.
-    [4] D. Zhai and Y. C. Soh, “Balancing indoor thermal comfort and energy consumption of acmv systems via sparse swarm algorithms in optimizations,” Energy and Buildings, vol.149, pp. 1–15, 2017.
-    [5] T. Chaudhuri, D. Zhai, Y. C. Soh, H. Li and L. Xie, “Thermal comfort prediction using normalized skin temperature in a uniform built environment,” Energy and Buildings, vol. 159, pp. 426–440,2017.
-    [6] T. Chaudhuri, D. Zhai, Y. C. Soh, H. Li and L. Xie, “Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology,” Energy and Buildings, vol. 166, pp. 391–406, 2018.
-    [7] G. Jing, W. Cai, D. Zhai, S. Liu, C. Cui, “A model-based air balancing method of a ventilation system,” Energy and Buildings, vol. 174, pp. 506-512, 2018.
-    [8] X. Ou, W. Cai, X. He and D. Zhai, “Experimental investigations on heat and mass transfer performances of a liquid desiccant cooling and dehumidification system,” Applied Energy, vol. 220, pp. 164-175, 2018
-    [9] G. Jing, W. Cai, H. Chen, D. Zhai, C. Cui, X. Yin, “An air balancing method using support vector machine for a ventilation system,” Building and Environment, vol. 143, pp. 487-495, 2018
-    [10] X. Ou, W. Cai, X. He, X. Wang and D. Zhai, “A dynamic modeling of liquid desiccant cooling and dehumidification system for control and optimization,” Energy and Buildings, vol. 163, pp. 44–57, 2017.
-    [11] C. Jiang, Y. C. Soh, H. Li, M. K. Masood, Z. Wei, X. Zhou, D. Zhai, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, 2017.
+    [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach (Part II)”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
+    [2] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach (Part I)”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
+    [3] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Predicting Berth Stay for Tanker Terminals: An Intelligent Multi-modal Data Driven Approach”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
+    [4] D. Zhai, T. Chaudhuri and Y. C. Soh, “Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies,” Building and Environment, vol. 125, pp. 129-142, 2017.
+    [5] D. Zhai and Y. C. Soh, “Balancing indoor thermal comfort and energy consumption of acmv systems via sparse swarm algorithms in optimizations,” Energy and Buildings, vol.149, pp. 1–15, 2017.
+    [6] T. Chaudhuri, D. Zhai, Y. C. Soh, H. Li and L. Xie, “Thermal comfort prediction using normalized skin temperature in a uniform built environment,” Energy and Buildings, vol. 159, pp. 426–440,2017.
+    [7] T. Chaudhuri, D. Zhai, Y. C. Soh, H. Li and L. Xie, “Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology,” Energy and Buildings, vol. 166, pp. 391–406, 2018.
+    [8] G. Jing, W. Cai, D. Zhai, S. Liu, C. Cui, “A model-based air balancing method of a ventilation system,” Energy and Buildings, vol. 174, pp. 506-512, 2018.
+    [9] X. Ou, W. Cai, X. He and D. Zhai, “Experimental investigations on heat and mass transfer performances of a liquid desiccant cooling and dehumidification system,” Applied Energy, vol. 220, pp. 164-175, 2018
+    [10] G. Jing, W. Cai, H. Chen, D. Zhai, C. Cui, X. Yin, “An air balancing method using support vector machine for a ventilation system,” Building and Environment, vol. 143, pp. 487-495, 2018
+    [11] X. Ou, W. Cai, X. He, X. Wang and D. Zhai, “A dynamic modeling of liquid desiccant cooling and dehumidification system for control and optimization,” Energy and Buildings, vol. 163, pp. 44–57, 2017.
+    [12] C. Jiang, Y. C. Soh, H. Li, M. K. Masood, Z. Wei, X. Zhou, D. Zhai, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, 2017.
     
 ## 2. Conference:
     [1] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and W. Zhang, “Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation,” 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), (2020).
@@ -117,6 +122,6 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
-Any enquiry, please email me through: dzhai001@e.ntu.edu.sg.
+Any enquiry, please email me at: dzhai001@e.ntu.edu.sg.
 
-Updated on 2021-09-14, 09:50 (UTC+08:00)
+Updated on 2021-10-15, 09:26 (UTC+08:00)
