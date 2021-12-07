@@ -26,16 +26,16 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
     
 ## 3. Domains: 
-    1) AI x IoT (e.g. Smart Cities/Buildings/Homes......)
-    2) Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air......)
-    3) Healthcare (e.g. Diagnosis Classification......)
+    1) AI x IoT (e.g. Smart Cities/Buildings/Homes, etc.)
+    2) Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air, etc.)
+    3) Healthcare (e.g. Diagnosis Classification, etc.)
 
 
 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
-# Research Project Overview
+# Research Projects - Overview
     [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
     [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
     [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
@@ -50,7 +50,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
-# Research Project Details
+# Research Project - Details
 
 ## [8] Food Supply Chain (POC)
     1) Perform data analyses on the food supply
@@ -128,6 +128,6 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
-Any enquiry, please email me at: dzhai001 [at] e.ntu.edu.sg
+Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
 
 Updated on 2021-12-07, 14:45 (UTC+08:00)
