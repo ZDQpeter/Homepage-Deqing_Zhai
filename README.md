@@ -25,60 +25,17 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
     
-## 3. Hobby: 
-    1) Solve real-life problems
-    2) Build up DIY projects
+## 3. Domains: 
+    1) AI x IoT (e.g. Smart Cities/Buildings/Homes......)
+    2) Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air......)
+    3) Healthcare (e.g. Diagnosis Classification......)
+
 
 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
-# Research Details
-## 1. Air-Conditioning and Mechanical Ventilation (ACMV) Systems
-    1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WHU) and Condenser.
-    2) Evaluate energy consumption on different operating schemes.
-    3) Evaluate environmental parameter effects on different operating schemes.
-    4) Optimize multi-objective on energy efficiency and thermal comfort for operating ACMV systems.
-    
-## 2. Thermal Comfort
-    1) Develop passive approach physics modelling based on Fanger's environmental parameters.
-    2) Develop active approach ML modelling based on occupant's physiological parameters.
-    3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters.
-    
-## 3. Maritime Operational Research
-    1) Develop predictive modeling on durations of cargo operations for vessel berthing at terminals.
-    2) Develop predictive modeling on expected time to unberth (ETUB) for vessel berthing at terminals.
-    3) Schedule and optimize on terminal/berth/vessel utilization given a desired time window and scenarios.
-    4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port.
-    5) Minimize wait time and turnaround time of vessels.
-    
-## 4. Maritime Supply Chain and Logistics
-    1) Identify trajectory patterns of vessels.
-    2) Identify key locations of potential collision situational awareness.
-    3) Develop stay location and duration detection based on automatic identification system (AIS).
-    4) Develop route identification and waypoints for global traffic trajectories.
-    5) Develop physics-based predictive modeling on estimated time of arrival (ETA) of vessels.
-    
-## 5. Hyper-Personalized Line
-    1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
-    2) Develop predictive modeling on cycletime of production line ML-based.
-    3) Develop predictive modeling on cycletime of production line hybrid-based.
-    4) Develop scheduling and re-scheduling models of different scenarios during production.
-    
-## 6. Quantum Computing
-    1) Explore to learn quantum algorithms.
-    2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
-    3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
-    
-## 7. Food Supply Chain (POC)
-    1) Perform data analyses on the food supply
-    2) Develop predictive models of food imported
-    3) Develop supply chain associative net works of food imported
-    
--------------------------------------------------------------------
--------------------------------------------------------------------
-
-# Project Overview
+# Research Project Overview
     [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
     [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
     [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
@@ -89,12 +46,55 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution. (EEE, NTU: 2014-2018)
     
     
-    
-    
-    
-    
 
+-------------------------------------------------------------------
+-------------------------------------------------------------------
 
+# Research Project Details
+
+## [8] Food Supply Chain (POC)
+    1) Perform data analyses on the food supply
+    2) Develop predictive models of food imported
+    3) Develop supply chain associative net works of food imported
+    
+## [6/7] Hyper-Personalized Line
+    1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
+    2) Develop predictive modeling on cycletime of production line ML-based.
+    3) Develop predictive modeling on cycletime of production line hybrid-based.
+    4) Develop scheduling and re-scheduling models of different scenarios during production.
+    
+## [4] Quantum Computing
+    1) Explore to learn quantum algorithms.
+    2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
+    3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
+    
+## [4] Maritime Supply Chain and Logistics
+    1) Identify trajectory patterns of vessels.
+    2) Identify key locations of potential collision situational awareness.
+    3) Develop stay location and duration detection based on automatic identification system (AIS).
+    4) Develop route identification and waypoints for global traffic trajectories.
+    5) Develop physics-based predictive modeling on estimated time of arrival (ETA) of vessels.
+
+## [4/5] Maritime Operational Research
+    1) Develop predictive modeling on durations of cargo operations for vessel berthing at terminals.
+    2) Develop predictive modeling on expected time to unberth (ETUB) for vessel berthing at terminals.
+    3) Schedule and optimize on terminal/berth/vessel utilization given a desired time window and scenarios.
+    4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port.
+    5) Minimize wait time and turnaround time of vessels.
+
+## [1] Thermal Comfort
+    1) Develop passive approach physics modelling based on Fanger's environmental parameters.
+    2) Develop active approach ML modelling based on occupant's physiological parameters.
+    3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters.
+
+## [1/2/3] Air-Conditioning and Mechanical Ventilation (ACMV) Systems
+    1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WHU) and Condenser.
+    2) Evaluate energy consumption on different operating schemes.
+    3) Evaluate environmental parameter effects on different operating schemes.
+    4) Optimize multi-objective on energy efficiency and thermal comfort for operating ACMV systems.    
+    
+    
+    
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
@@ -128,6 +128,6 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
-Any enquiry, please email me at: dzhai001@e.ntu.edu.sg.
+Any enquiry, please email me at: dzhai001 [at] e.ntu.edu.sg
 
-Updated on 2021-11-22, 22:13 (UTC+08:00)
+Updated on 2021-12-07, 14:45 (UTC+08:00)
