@@ -50,7 +50,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 
-# Research Project - Details
+# Research Projects - Details
 
 ## [8] Food Supply Chain (POC)
     1) Perform data analyses on the food supply
