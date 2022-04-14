@@ -36,6 +36,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 -------------------------------------------------------------------
 
 # Research Projects - Overview
+    [9] Smart Building - Sustainable Urban Renewal (SUR) for KBT (D&T, Keppel: 2022)
     [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
     [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
     [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
@@ -52,10 +53,15 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 # Research Projects - Details
 
+## [9] Smart Building - Sustainable Urban Renewal (SUR)
+    1) Perform data analyses on KBT big data.
+    2) Develop predictive models of energy profile and environment profile of KBT building.
+    3) Develop optimization algorithm for energy efficient KBT building operations.
+
 ## [8] Food Supply Chain (POC)
-    1) Perform data analyses on the food supply
-    2) Develop predictive models of food imported
-    3) Develop supply chain associative net works of food imported
+    1) Perform data analyses on the food supply.
+    2) Develop predictive models of food imported.
+    3) Develop supply chain associative net works of food imported.
     
 ## [6/7] Hyper-Personalized Line
     1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
@@ -100,9 +106,9 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 # Publications
 ## 1. Journal:
-    [12] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach (Part II)”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
-    [11] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach (Part I)”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
-    [10] D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang, “Predicting Berth Stay for Tanker Terminals: An Intelligent Multi-modal Data Driven Approach”, European Journal of Operational Research, 2021. [Manuscript completed, to be submitted]
+    [12] D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, N. Li, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach (Part II)”, arXiv > Computer Science > Computational Engineering, Finance, and Science 2022.
+    [11] D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, N. Li, “Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach (Part I)”, arXiv > Computer Science > Computational Engineering, Finance, and Science 2021.
+    [10] D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, “Predicting Berth Stay for Tanker Terminals: An Intelligent Multi-modal Data Driven Approach”, arXiv > Computer Science > Computational Engineering, Finance, and Science 2021.
     [9] D. Zhai, T. Chaudhuri and Y. C. Soh, “Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies,” Building and Environment, vol. 125, pp. 129-142, 2017.
     [8] D. Zhai and Y. C. Soh, “Balancing indoor thermal comfort and energy consumption of acmv systems via sparse swarm algorithms in optimizations,” Energy and Buildings, vol.149, pp. 1–15, 2017.
     [7] T. Chaudhuri, D. Zhai, Y. C. Soh, H. Li and L. Xie, “Thermal comfort prediction using normalized skin temperature in a uniform built environment,” Energy and Buildings, vol. 159, pp. 426–440,2017.
