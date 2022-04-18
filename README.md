@@ -121,7 +121,9 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     
 ## 2. Conference:
 [[9]]() D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and W. Zhang, "Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation", 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), (2020).
+
 [[8]]() D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and R. Goh, "Digitalisation and predictive modelling of berth stay time windows for tanker operation enhancement", MTEC – ICMASS (2019).
+
 [[7]]() D. Zhai, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang and R. Goh, "Optimization and Simulation on Tanker Vessels Scheduling for Efficient Terminal Operations", 2019 IEEE International Conference on Industrial Engineering & Engineering Management (IEEM), (2019).
 [[6]]() D. Zhai, T. Chaudhuri, Y. C. Soh, X. Ou and C. Jiang, "Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants", 2018 IEEE World Congress on Computational Intelligence (WCCI), (2018).
 [[5]]() T. Chaudhuri, D. Zhai, Y. C. Soh, H. Li, L. Xie, X. Ou, "Convolutional Neural Network and Kernel Methods for Occupant Thermal State Detection using Wearable Technology", 2018 IEEE World Congress on Computational Intelligence (WCCI), (2018).
