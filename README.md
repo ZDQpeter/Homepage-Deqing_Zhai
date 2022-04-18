@@ -106,11 +106,13 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 # Publications
 ## 1. Journal:
-[[12]](https://arxiv.org/abs/2204.03955) D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, N. Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 2", arXiv > Computer Science > Computational Engineering, Finance, and Science 2022.
+[[13]](https://arxiv.org/abs/2204.03955) D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, N. Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 2", arXiv > Computer Science > Computational Engineering, Finance, and Science 2022.
 
-[[11]](https://arxiv.org/abs/2204.03899) D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, N. Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 1", arXiv > Computer Science > Computational Engineering, Finance, and Science 2021.
+[[12]](https://arxiv.org/abs/2204.03899) D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, N. Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 1", arXiv > Computer Science > Computational Engineering, Finance, and Science 2021.
 
-[[10]](https://arxiv.org/abs/2204.04085) D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, "Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science 2021.
+[[11]](https://arxiv.org/abs/2204.04085) D. Zhai, X. Fu, H. Xu, X. F. Yin, W. Zhang, "Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science 2021.
+
+[[10]]() D. Zhai and Y. C. Soh, "Predictive Control and Optimization for Energy Efficient HVAC Systems: Computational Intelligence Approaches", arXiv > Computer Science > Computational Engineering, Finance, and Science 2019. 
 
 [[9]](https://doi.org/10.1016/j.buildenv.2017.08.032) D. Zhai, T. Chaudhuri and Y. C. Soh, "Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies", Building and Environment, vol. 125, pp. 129-142, 2017.
     
