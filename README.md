@@ -130,6 +130,8 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     [2] D. Zhai, Y. C. Soh and W. Cai, “Operating points as communication bridge between energy evaluation with air temperature and velocity based on extreme learning machine (ELM) models,” 2016 IEEE 11th International Conference on Industrial Electronics and Applications (ICIEA), pp. 712–716(2016).
     [1] D. Zhai and Y. C. Soh, “Research on indoor air-flow measurements and predictions with different methods,” 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56(2015).
 
+## 3. Thesis:
+    [1] D. Zhai, “[Modeling and optimization of ACMV systems for energy efficient smart buildings](https://dr.ntu.edu.sg/handle/10220/48443)”, Doctoral thesis, Nanyang Technological University, Singapore, (2019).
 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
