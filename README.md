@@ -12,7 +12,6 @@ In my Ph.D study, I focused on machine learning and optimization algorithms in t
 I had been joining in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime, supply chain, logistics and industrial production line, etc. Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
 
 -------------------------------------------------------------------
--------------------------------------------------------------------
 
 # Research Interests
 ## 1. Machine Learning:
@@ -103,20 +102,20 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 [[11]](https://arxiv.org/abs/2204.04085) **D. Zhai**, X. Fu, H. Xu, X. F. Yin and W. Zhang, "Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science, 2021.
 
 [[10]]() **D. Zhai** and Y. C. Soh, "Predicting and Optimizing for Energy Efficient ACMV Systems: Computational Intelligence Approaches", arXiv > Computer Science > Computational Engineering, Finance, and Science, 2019. 
+    
+[[9]](https://doi.org/10.1016/j.enbuild.2018.02.035) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li and L. Xie, "Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology", Energy and Buildings, vol. 166, pp. 391–406, 2018.
+    
+[[8]](https://doi.org/10.1016/j.enbuild.2018.06.044) G. Jing, W. Cai, **D. Zhai**, S. Liu and C. Cui, "A model-based air balancing method of a ventilation system", Energy and Buildings, vol. 174, pp. 506-512, 2018.
 
-[[9]](https://doi.org/10.1016/j.buildenv.2017.08.032) **D. Zhai**, T. Chaudhuri and Y. C. Soh, "Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies", Building and Environment, vol. 125, pp. 129-142, 2017.
+[[7]](https://doi.org/10.1016/j.apenergy.2018.03.087) X. Ou, W. Cai, X. He and **D. Zhai**, "Experimental investigations on heat and mass transfer performances of a liquid desiccant cooling and dehumidification system", Applied Energy, vol. 220, pp. 164-175, 2018.
     
-[[8]](https://doi.org/10.1016/j.enbuild.2017.05.019) **D. Zhai** and Y. C. Soh, "Balancing indoor thermal comfort and energy consumption of acmv systems via sparse swarm algorithms in optimizations", Energy and Buildings, vol.149, pp. 1–15, 2017.
-    
-[[7]](https://doi.org/10.1016/j.enbuild.2017.10.098) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li and L. Xie, "Thermal comfort prediction using normalized skin temperature in a uniform built environment", Energy and Buildings, vol. 159, pp. 426–440,2017.
-    
-[[6]](https://doi.org/10.1016/j.enbuild.2018.02.035) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li and L. Xie, "Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology", Energy and Buildings, vol. 166, pp. 391–406, 2018.
-    
-[[5]](https://doi.org/10.1016/j.enbuild.2018.06.044) G. Jing, W. Cai, **D. Zhai**, S. Liu and C. Cui, "A model-based air balancing method of a ventilation system", Energy and Buildings, vol. 174, pp. 506-512, 2018.
+[[6]](https://doi.org/10.1016/j.buildenv.2018.07.037) G. Jing, W. Cai, H. Chen, **D. Zhai**, C. Cui and X. Yin, "An air balancing method using support vector machine for a ventilation system", Building and Environment, vol. 143, pp. 487-495, 2018.
 
-[[4]](https://doi.org/10.1016/j.apenergy.2018.03.087) X. Ou, W. Cai, X. He and **D. Zhai**, "Experimental investigations on heat and mass transfer performances of a liquid desiccant cooling and dehumidification system", Applied Energy, vol. 220, pp. 164-175, 2018.
+[[5]](https://doi.org/10.1016/j.buildenv.2017.08.032) **D. Zhai**, T. Chaudhuri and Y. C. Soh, "Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies", Building and Environment, vol. 125, pp. 129-142, 2017.
     
-[[3]](https://doi.org/10.1016/j.buildenv.2018.07.037) G. Jing, W. Cai, H. Chen, **D. Zhai**, C. Cui and X. Yin, "An air balancing method using support vector machine for a ventilation system", Building and Environment, vol. 143, pp. 487-495, 2018.
+[[4]](https://doi.org/10.1016/j.enbuild.2017.05.019) **D. Zhai** and Y. C. Soh, "Balancing indoor thermal comfort and energy consumption of acmv systems via sparse swarm algorithms in optimizations", Energy and Buildings, vol.149, pp. 1–15, 2017.
+    
+[[3]](https://doi.org/10.1016/j.enbuild.2017.10.098) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li and L. Xie, "Thermal comfort prediction using normalized skin temperature in a uniform built environment", Energy and Buildings, vol. 159, pp. 426–440,2017.
     
 [[2]](https://doi.org/10.1016/j.enbuild.2017.12.041) X. Ou, W. Cai, X. He, X. Wang and **D. Zhai**, "A dynamic modeling of liquid desiccant cooling and dehumidification system for control and optimization", Energy and Buildings, vol. 163, pp. 44–57, 2017.
     
@@ -144,7 +143,6 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 ## 3. Thesis:
 [[1]](https://dr.ntu.edu.sg/handle/10220/48443) **D. Zhai**, "Modeling and optimization of ACMV systems for energy efficient smart buildings", Doctoral thesis, Nanyang Technological University, Singapore, (2019).
 
--------------------------------------------------------------------
 -------------------------------------------------------------------
 
 Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
