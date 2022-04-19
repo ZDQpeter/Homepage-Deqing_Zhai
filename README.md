@@ -132,13 +132,13 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 [[5]](https://ieeexplore.ieee.org/document/8489069) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li, L. Xie and X. Ou, "Convolutional Neural Network and Kernel Methods for Occupant Thermal State Detection using Wearable Technology", 2018 IEEE World Congress on Computational Intelligence (WCCI), (2018).
 
-[[4]](https://ieeexplore.ieee.org/document/8168568) **D. Zhai**, T. Chaudhuri and Y. C. Soh, "Energy efficiency improvement with k-means approach to thermal comfort for acmv systems of smart buildings", 2017 IEEE Asian Conference on Energy, Power and Transportation Electrification(ACEPT), pp. 03-208(2017).
+[[4]](https://ieeexplore.ieee.org/document/8168568) **D. Zhai**, T. Chaudhuri and Y. C. Soh, "Energy efficiency improvement with k-means approach to thermal comfort for acmv systems of smart buildings", 2017 IEEE Asian Conference on Energy, Power and Transportation Electrification(ACEPT), pp. 203-208 (2017).
 
-[[3]](https://ieeexplore.ieee.org/document/7966028) **D. Zhai** and Y. C. Soh, "Balancing indoor thermal comfort and energy consumption of air-conditioning and mechanical ventilation systems via sparse Firefly algorithm optimization", 2017IEEE30th International Joint Conference on Neural Networks (IJCNN), pp. 1488–1494(2017).
+[[3]](https://ieeexplore.ieee.org/document/7966028) **D. Zhai** and Y. C. Soh, "Balancing indoor thermal comfort and energy consumption of air-conditioning and mechanical ventilation systems via sparse Firefly algorithm optimization", 2017IEEE30th International Joint Conference on Neural Networks (IJCNN), pp. 1488–1494 (2017).
 
-[[2]](https://ieeexplore.ieee.org/document/7603675) **D. Zhai**, Y. C. Soh and W. Cai, "Operating points as communication bridge between energy evaluation with air temperature and velocity based on extreme learning machine (ELM) models", 2016 IEEE 11th International Conference on Industrial Electronics and Applications (ICIEA), pp. 712–716(2016).
+[[2]](https://ieeexplore.ieee.org/document/7603675) **D. Zhai**, Y. C. Soh and W. Cai, "Operating points as communication bridge between energy evaluation with air temperature and velocity based on extreme learning machine (ELM) models", 2016 IEEE 11th International Conference on Industrial Electronics and Applications (ICIEA), pp. 712–716 (2016).
 
-[1] **D. Zhai** and Y. C. Soh, "Research on indoor air-flow measurements and predictions with different methods", 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56(2015).
+[1] **D. Zhai** and Y. C. Soh, "Research on indoor air-flow measurements and predictions with different methods", 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56 (2015).
 
 ## 3. Thesis:
 [[1]](https://dr.ntu.edu.sg/handle/10220/48443) **D. Zhai**, "Modeling and optimization of ACMV systems for energy efficient smart buildings", Doctoral thesis, Nanyang Technological University, Singapore, (2019).
