@@ -95,53 +95,55 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 # Publications
 ## 1. Journal:
-[[13]](https://arxiv.org/abs/2204.03955) **D. Zhai**, X. Fu, H. Xu, X. F. Yin, W. Zhang and N. Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 2", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2022].
+[[13]](https://arxiv.org/abs/2204.03955) **Deqing Zhai**, Xiuju Fu, Hai-Yan Xu, Xiao Feng Yin, Wanbing Zhang and Ning Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 2", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2022].
 
-[[12]](https://arxiv.org/abs/2204.03899) **D. Zhai**, X. Fu, H. Xu, X. F. Yin, W. Zhang and N. Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 1", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2021].
+[[12]](https://arxiv.org/abs/2204.03899) **Deqing Zhai**, Xiuju Fu, Hai-Yan Xu, Xiao Feng Yin, Wanbing Zhang and Ning Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 1", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2021].
 
-[[11]](https://arxiv.org/abs/2204.04085) **D. Zhai**, X. Fu, H. Xu, X. F. Yin and W. Zhang, "Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2021].
+[[11]](https://arxiv.org/abs/2204.04085) **Deqing Zhai**, Xiuju Fu, Hai-Yan Xu, Xiao Feng Yin and Wanbing Zhang, "Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2021].
 
-[[10]]() **D. Zhai** and Y. C. Soh, "Predicting and Optimizing for Energy Efficient ACMV Systems: Computational Intelligence Approaches", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2019]. 
+[[10]]() **Deqing Zhai** and Yeng Chai Soh, "Predicting and Optimizing for Energy Efficient ACMV Systems: Computational Intelligence Approaches", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2019]. 
     
-[[9]](https://doi.org/10.1016/j.enbuild.2018.02.035) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li and L. Xie, "Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology", Energy and Buildings, vol. 166, pp. 391–406, [2018].
+[[9]](https://doi.org/10.1016/j.enbuild.2018.02.035) T. Chaudhuri, **Deqing Zhai**, Yeng Chai Soh, Hua Li and Lihua Xie, "Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology", Energy and Buildings, vol. 166, pp. 391–406, [2018].
     
-[[8]](https://doi.org/10.1016/j.enbuild.2018.06.044) G. Jing, W. Cai, **D. Zhai**, S. Liu and C. Cui, "A model-based air balancing method of a ventilation system", Energy and Buildings, vol. 174, pp. 506-512, [2018].
+[[8]](https://doi.org/10.1016/j.enbuild.2018.06.044) Gang Jing, Wenjian Cai, **Deqing Zhai**, Shuai Liu and Can Cui, "A model-based air balancing method of a ventilation system", Energy and Buildings, vol. 174, pp. 506-512, [2018].
 
-[[7]](https://doi.org/10.1016/j.apenergy.2018.03.087) X. Ou, W. Cai, X. He and **D. Zhai**, "Experimental investigations on heat and mass transfer performances of a liquid desiccant cooling and dehumidification system", Applied Energy, vol. 220, pp. 164-175, [2018].
+[[7]](https://doi.org/10.1016/j.apenergy.2018.03.087) Xianhua Ou, Wenjian Cai, Xiongxiong He and **Deqing Zhai**, "Experimental investigations on heat and mass transfer performances of a liquid desiccant cooling and dehumidification system", Applied Energy, vol. 220, pp. 164-175, [2018].
     
-[[6]](https://doi.org/10.1016/j.buildenv.2018.07.037) G. Jing, W. Cai, H. Chen, **D. Zhai**, C. Cui and X. Yin, "An air balancing method using support vector machine for a ventilation system", Building and Environment, vol. 143, pp. 487-495, [2018].
+[[6]](https://doi.org/10.1016/j.buildenv.2018.07.037) Gang Jing, Wenjian Cai, Haoran Chen, **Deqing. Zhai**, Can Cui and Xiaohong Yin, "An air balancing method using support vector machine for a ventilation system", Building and Environment, vol. 143, pp. 487-495, [2018].
 
-[[5]](https://doi.org/10.1016/j.buildenv.2017.08.032) **D. Zhai**, T. Chaudhuri and Y. C. Soh, "Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies", Building and Environment, vol. 125, pp. 129-142, [2017].
+[[5]](https://doi.org/10.1016/j.buildenv.2017.08.032) **Deqing Zhai**, Tanaya Chaudhuri and Yeng Chai Soh, "Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies", Building and Environment, vol. 125, pp. 129-142, [2017].
     
-[[4]](https://doi.org/10.1016/j.enbuild.2017.05.019) **D. Zhai** and Y. C. Soh, "Balancing indoor thermal comfort and energy consumption of acmv systems via sparse swarm algorithms in optimizations", Energy and Buildings, vol.149, pp. 1–15, [2017].
+[[4]](https://doi.org/10.1016/j.enbuild.2017.05.019) **Deqing Zhai** and Yeng Chai Soh, "Balancing indoor thermal comfort and energy consumption of acmv systems via sparse swarm algorithms in optimizations", Energy and Buildings, vol.149, pp. 1–15, [2017].
     
-[[3]](https://doi.org/10.1016/j.enbuild.2017.10.098) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li and L. Xie, "Thermal comfort prediction using normalized skin temperature in a uniform built environment", Energy and Buildings, vol. 159, pp. 426–440, [2017].
+[[3]](https://doi.org/10.1016/j.enbuild.2017.10.098) Tanaya Chaudhuri, **Deqing Zhai**, Yeng Chai Soh, Hua Li and Lihua Xie, "Thermal comfort prediction using normalized skin temperature in a uniform built environment", Energy and Buildings, vol. 159, pp. 426–440, [2017].
     
-[[2]](https://doi.org/10.1016/j.enbuild.2017.12.041) X. Ou, W. Cai, X. He, X. Wang and **D. Zhai**, "A dynamic modeling of liquid desiccant cooling and dehumidification system for control and optimization", Energy and Buildings, vol. 163, pp. 44–57, [2017].
+[[2]](https://doi.org/10.1016/j.enbuild.2017.12.041) Xianhua Ou, Wenjian Cai, Xiongxiong He, Xinli Wang and **Deqing Zhai**, "A dynamic modeling of liquid desiccant cooling and dehumidification system for control and optimization", Energy and Buildings, vol. 163, pp. 44–57, [2017].
     
-[[1]](https://doi.org/10.1016/j.buildenv.2017.02.007) C. Jiang, Y. C. Soh, H. Li, M. K. Masood, Z. Wei, X. Zhou and **D. Zhai**, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, [2017].
+[[1]](https://doi.org/10.1016/j.buildenv.2017.02.007) Chaoyang Jiang, Yeng Chai Soh, Hua Li, Mustafa K. Masood, Zhe Wei, Xiaoli Zhou and **Deqing Zhai**, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, [2017].
     
 ## 2. Conference:
-[[9]](https://ieeexplore.ieee.org/document/9248206) **D. Zhai**, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and W. Zhang, "Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation", 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), [2020].
+[[10]](https://ieeexplore.ieee.org/document/9248206) **Deqing Zhai**, Xiuju Fu, Hai-Yan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Wanbing Zhang, "Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation", 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), [2020].
 
-[[8]](https://nfas.autonomous-ship.org/wp-content/uploads/2020/09/78_icmass19.pdf) **D. Zhai**, X. Fu, H. Xu, X. F. Yin, V. Jayaraman and R. Goh, "Digitalisation and predictive modelling of berth stay time windows for tanker operation enhancement", MTEC – ICMASS [2019].
+[[9]](https://nfas.autonomous-ship.org/wp-content/uploads/2020/09/78_icmass19.pdf) **Deqing Zhai**, Xiuju Fu, Hai-Yan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Rick Siow Mong Goh, "Digitalisation and predictive modelling of berth stay time windows for tanker operation enhancement", MTEC – ICMASS [2019].
 
-[[7]](https://ieeexplore.ieee.org/document/8978867) **D. Zhai**, X. Fu, H. Xu, X. F. Yin, V. Jayaraman, W. Zhang and R. Goh, "Optimization and Simulation on Tanker Vessels Scheduling for Efficient Terminal Operations", 2019 IEEE International Conference on Industrial Engineering & Engineering Management (IEEM), [2019].
+[[8]](https://ieeexplore.ieee.org/document/8978867) **Deqing Zhai**, Xiuju Fu, Hai-Yan Xu, Xiao Feng Yin, Vasundhara Jayaraman, Wanbing Zhang and Rick Siow Mong Goh, "Optimization and Simulation on Tanker Vessels Scheduling for Efficient Terminal Operations", 2019 IEEE International Conference on Industrial Engineering & Engineering Management (IEEM), [2019].
 
-[[6]](https://ieeexplore.ieee.org/document/8489214) **D. Zhai**, T. Chaudhuri, Y. C. Soh, X. Ou and C. Jiang, "Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants", 2018 IEEE World Congress on Computational Intelligence (WCCI), [2018].
+[[7]](https://ieeexplore.ieee.org/abstract/document/8978767) Hai-Yan Xu, Vasundhara Jayaraman, Xiuju Fu, Nasri Bin Othman, Wanbing Zhang, Xiao Feng Yin, **Deqing Zhai** and Rick Siow Mong Goh, "Efficient Compression and Preprocessing for Facilitating Large Scale Spatiotemporal Data Mining-A Case Study based on Automatic Identification System Data", 2019 IEEE International Conference on Industrial Engineering & Engineering Management (IEEM), [2019].
 
-[[5]](https://ieeexplore.ieee.org/document/8489069) T. Chaudhuri, **D. Zhai**, Y. C. Soh, H. Li, L. Xie and X. Ou, "Convolutional Neural Network and Kernel Methods for Occupant Thermal State Detection using Wearable Technology", 2018 IEEE World Congress on Computational Intelligence (WCCI), [2018].
+[[6]](https://ieeexplore.ieee.org/document/8489214) **Deqing Zhai**, Tanaya Chaudhuri, Yeng Chai Soh, Xianhua Ou and Chaoyang Jiang, "Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants", 2018 IEEE World Congress on Computational Intelligence (WCCI), [2018].
 
-[[4]](https://ieeexplore.ieee.org/document/8168568) **D. Zhai**, T. Chaudhuri and Y. C. Soh, "Energy efficiency improvement with k-means approach to thermal comfort for acmv systems of smart buildings", 2017 IEEE Asian Conference on Energy, Power and Transportation Electrification(ACEPT), pp. 203-208 [2017].
+[[5]](https://ieeexplore.ieee.org/document/8489069) Tanaya Chaudhuri, **Deqing Zhai**, Yeng Chai Soh, Hua Li, Lihua Xie and Xianhua Ou, "Convolutional Neural Network and Kernel Methods for Occupant Thermal State Detection using Wearable Technology", 2018 IEEE World Congress on Computational Intelligence (WCCI), [2018].
 
-[[3]](https://ieeexplore.ieee.org/document/7966028) **D. Zhai** and Y. C. Soh, "Balancing indoor thermal comfort and energy consumption of air-conditioning and mechanical ventilation systems via sparse Firefly algorithm optimization", 2017IEEE30th International Joint Conference on Neural Networks (IJCNN), pp. 1488–1494 [2017].
+[[4]](https://ieeexplore.ieee.org/document/8168568) **Deqing Zhai**, Tanaya Chaudhuri and Yeng Chai Soh, "Energy efficiency improvement with k-means approach to thermal comfort for acmv systems of smart buildings", 2017 IEEE Asian Conference on Energy, Power and Transportation Electrification(ACEPT), pp. 203-208 [2017].
 
-[[2]](https://ieeexplore.ieee.org/document/7603675) **D. Zhai**, Y. C. Soh and W. Cai, "Operating points as communication bridge between energy evaluation with air temperature and velocity based on extreme learning machine (ELM) models", 2016 IEEE 11th International Conference on Industrial Electronics and Applications (ICIEA), pp. 712–716 [2016].
+[[3]](https://ieeexplore.ieee.org/document/7966028) **Deqing Zhai** and Yeng Chai Soh, "Balancing indoor thermal comfort and energy consumption of air-conditioning and mechanical ventilation systems via sparse Firefly algorithm optimization", 2017IEEE30th International Joint Conference on Neural Networks (IJCNN), pp. 1488–1494 [2017].
 
-[1] **D. Zhai** and Y. C. Soh, "Research on indoor air-flow measurements and predictions with different methods", 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56 [2015].
+[[2]](https://ieeexplore.ieee.org/document/7603675) **Deqing Zhai**, Yeng Chai Soh and Wenjian Cai, "Operating points as communication bridge between energy evaluation with air temperature and velocity based on extreme learning machine (ELM) models", 2016 IEEE 11th International Conference on Industrial Electronics and Applications (ICIEA), pp. 712–716 [2016].
+
+[1] **Deqing Zhai** and Yeng Chai Soh, "Research on indoor air-flow measurements and predictions with different methods", 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56 [2015].
 
 ## 3. Thesis:
-[[1]](https://dr.ntu.edu.sg/handle/10220/48443) **D. Zhai**, "Modeling and optimization of ACMV systems for energy efficient smart buildings", Doctoral thesis, Nanyang Technological University, Singapore, [2019].
+[[1]](https://dr.ntu.edu.sg/handle/10220/48443) **Deqing Zhai**, "Modeling and optimization of ACMV systems for energy efficient smart buildings", Doctoral thesis, Nanyang Technological University, Singapore, [2019].
 
 -------------------------------------------------------------------
 
