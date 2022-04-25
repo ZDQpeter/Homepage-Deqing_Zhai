@@ -109,7 +109,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 [[7]](https://doi.org/10.1016/j.apenergy.2018.03.087) Xianhua Ou, Wenjian Cai, Xiongxiong He and **Deqing Zhai**, "Experimental investigations on heat and mass transfer performances of a liquid desiccant cooling and dehumidification system", Applied Energy, vol. 220, pp. 164-175, [2018].
     
-[[6]](https://doi.org/10.1016/j.buildenv.2018.07.037) Gang Jing, Wenjian Cai, Haoran Chen, **Deqing. Zhai**, Can Cui and Xiaohong Yin, "An air balancing method using support vector machine for a ventilation system", Building and Environment, vol. 143, pp. 487-495, [2018].
+[[6]](https://doi.org/10.1016/j.buildenv.2018.07.037) Gang Jing, Wenjian Cai, Haoran Chen, **Deqing Zhai**, Can Cui and Xiaohong Yin, "An air balancing method using support vector machine for a ventilation system", Building and Environment, vol. 143, pp. 487-495, [2018].
 
 [[5]](https://doi.org/10.1016/j.buildenv.2017.08.032) **Deqing Zhai**, Tanaya Chaudhuri and Yeng Chai Soh, "Modeling and optimization of different sparse augmented firefly algorithms for acmv systems under two case studies", Building and Environment, vol. 125, pp. 129-142, [2017].
     
