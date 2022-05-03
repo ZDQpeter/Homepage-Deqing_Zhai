@@ -101,7 +101,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 [[11]](https://arxiv.org/abs/2204.04085) **Deqing Zhai**, Xiuju Fu, Hai-Yan Xu, Xiao Feng Yin and Wanbing Zhang, "Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2021].
 
-[[10]]() **Deqing Zhai** and Yeng Chai Soh, "Predicting and Optimizing for Energy Efficient ACMV Systems: Computational Intelligence Approaches", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2019]. 
+[[10]](https://arXiv:2205.00833) **Deqing Zhai** and Yeng Chai Soh, "Predicting and Optimizing for Energy Efficient ACMV Systems: Computational Intelligence Approaches", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2019]. 
     
 [[9]](https://doi.org/10.1016/j.enbuild.2018.02.035) T. Chaudhuri, **Deqing Zhai**, Yeng Chai Soh, Hua Li and Lihua Xie, "Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology", Energy and Buildings, vol. 166, pp. 391–406, [2018].
     
