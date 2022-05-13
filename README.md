@@ -31,31 +31,41 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 -------------------------------------------------------------------
 
 # Research Projects - Overview
-    [9] Smart Building - Sustainable Urban Renewal (SUR) for KBT (D&T, Keppel: 2022)
+    [11] 100-Day Leaders Challenge: Change Enablers Initiatives (D&T and CX, Keppel: 2022)
+    [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC (D&T and KTI, Keppel: 2022)
+    [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-Present)
     [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
-    [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021-Present)
-    [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021-Present)
-    [5] Estmated Time to Un-Berth Prediction for Terminals in Singapore. (IHPC, A*STAR: 2020-2021)
-    [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore. (IHPC, A*STAR: 2018-2020)
-    [3] Energy Modelling and Simulation of NTU Campus Buildings for Future Renovations in Singapore. (ERI@N, NTU: 2018)
-    [2] Chilled Ceiling Air-Conditioning System for Tropical Climates. (ERI@N, NTU: 2018)
-    [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution. (EEE, NTU: 2014-2018)
+    [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021)
+    [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021)
+    [5] Estmated Time to Un-Berth Prediction for Terminals in Singapore (IHPC, A*STAR: 2020-2021)
+    [4] Enhancing Operation Efficiency for Tanker Shipping Operations in Singapore (IHPC, A*STAR: 2018-2020)
+    [3] Energy Modelling and Simulation of NTU Campus Buildings for Future Renovations in Singapore (ERI@N, NTU: 2018)
+    [2] Chilled Ceiling Air-Conditioning System for Tropical Climates (ERI@N, NTU: 2018)
+    [1] Singapore NRF Competitive Research Programme (CRP): New Generation HVAC Systems – Total Energy Efficiency Solution (EEE, NTU: 2014-2018)
 
 -------------------------------------------------------------------
 
 # Research Projects - Details
 
-## [9] Smart Building - Sustainable Urban Renewal (SUR)
+## [11] 100-Day Leaders Challenge: Change Enablers Initiatives
+    1) Involve in experimentation design for hyppothesis testing
+    2) Conduct statistical analyses to validate hypothesis and draw insightful conclusions for further analytics
+
+## [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC
+    1) Using Third-party API to request data ingestion for Snowflake platform
+    2) Involve in customer 360 modelling for classifying different customers
+
+## [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives
     1) Perform data analyses on KBT big data.
     2) Develop predictive models of energy profile and environment profile of KBT building.
     3) Develop optimization algorithm for energy efficient KBT building operations.
 
-## [8] Food Supply Chain (POC)
+## [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC
     1) Perform data analyses on the food supply.
     2) Develop predictive models of food imported.
     3) Develop supply chain associative net works of food imported.
     
-## [6/7] Hyper-Personalized Line
+## [6 & 7] Arcstone Programme
     1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
     2) Develop predictive modeling on cycletime of production line ML-based.
     3) Develop predictive modeling on cycletime of production line hybrid-based.
@@ -73,7 +83,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     4) Develop route identification and waypoints for global traffic trajectories.
     5) Develop physics-based predictive modeling on estimated time of arrival (ETA) of vessels.
 
-## [4/5] Maritime Operational Research
+## [4 & 5] Maritime Operational Research
     1) Develop predictive modeling on durations of cargo operations for vessel berthing at terminals.
     2) Develop predictive modeling on expected time to unberth (ETUB) for vessel berthing at terminals.
     3) Schedule and optimize on terminal/berth/vessel utilization given a desired time window and scenarios.
@@ -85,7 +95,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
     2) Develop active approach ML modelling based on occupant's physiological parameters.
     3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters.
 
-## [1/2/3] Air-Conditioning and Mechanical Ventilation (ACMV) Systems
+## [1 & 2 & 3] Air-Conditioning and Mechanical Ventilation Systems
     1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WHU) and Condenser.
     2) Evaluate energy consumption on different operating schemes.
     3) Evaluate environmental parameter effects on different operating schemes.
