@@ -105,7 +105,7 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 # Publications
 ## 1. Journal:
-[[14]](https://arxiv.org/abs/2205.07945) **Deqing Zhai**, Xiuju Fu, Xiao Feng Yin, Haiyan Xu, Wanbing Zhang and Ning Li, "Constructing Trajectory and Predicting Estimated Time of Arrival for Long Distance Travelling Vessels: A Probability Density-based Scanning Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2022].
+[[14]](https://arxiv.org/abs/2205.07945) **Deqing Zhai**, Xiuju Fu, Xiao Feng Yin, Haiyan Xu, Wanbing Zhang and Ning Li, "Constructing Trajectory and Predicting Estimated Time of Arrival for Long Distance Travelling Vessels: A Probability Density-based Scanning Approach", arXiv > Electrical Engineering and Systems Science > Systems and Control, [2022].
 
 [[13]](https://arxiv.org/abs/2204.03955) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Wanbing Zhang and Ning Li, "Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Spatial-Temporal Big Data Driven Approach - Part 2", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2022].
 
