@@ -9,7 +9,7 @@ In my bachelor study, I specialized in control systems and clean energy branches
 
 In my Ph.D study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.
 
-I had been joining in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist since 2018 until present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases, such as in the fields of maritime, supply chain, logistics and industrial production line, etc. Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
+I had been working in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist from 2018 to 2021. After A\*STAR, I had been working in Department of Digital & Technology (D&T) of Keppel Land (Keppel Corporation) as a senior data scientist from 2021 to present. The reserach direction was focused on machine learning and optimization algorithms over different use-cases in my works, such as in the fields of maritime, supply chain, logistics, industrial production line, smart buildings, sustainable urban renewal, etc. I Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
 
 -------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ I had been joining in Institute of High Performance Computing (IHPC) of Agency f
 
 Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
 
-Updated on 2021-12-08, 17:10 (UTC+08:00)
+Updated on 2022-05-25, 17:36 (UTC+08:00)
