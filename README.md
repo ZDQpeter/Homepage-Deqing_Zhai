@@ -2,18 +2,22 @@
 # About Deqing Zhai
 
 <p align="justify">
-    Good day. Welcome to my homepage. 
-    
-    I graduated both bachelor and Ph.D degrees in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in the year of 2014 and 2018, respectively.
-    
-    In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.
-    
-    In my Ph.D study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.
-    
-    I had been working in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist from 2018 to 2021. After A\*STAR, I had been working in Department of Digital & Technology (D&T) of Keppel Land (Keppel Corporation) as a senior data scientist and deputy manager from 2021 to present. The reserach direction was focused on machine learning and optimization over different domains of AI x IoT in my works, such as in the fields of maritime, supply chain, logistics, industrial production line, smart buildings, market analytics, etc. 
-    
-    Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
-</p>
+    Good day. Welcome to my homepage.</p>
+
+<p align="justify">
+    I graduated both bachelor and Ph.D degrees in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in the year of 2014 and 2018, respectively.</p>
+
+<p align="justify">
+    In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.</p>
+
+<p align="justify">
+    In my Ph.D study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
+
+<p align="justify">
+    I had been working in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist from 2018 to 2021. After A\*STAR, I had been working in Department of Digital & Technology (D&T) of Keppel Land (Keppel Corporation) as a senior data scientist and deputy manager from 2021 to present. The reserach direction was focused on machine learning and optimization over different domains of AI x IoT in my works, such as in the fields of maritime, supply chain, logistics, industrial production line, smart buildings, market analytics, etc. </p>
+
+<p align="justify">
+    Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).</p>
 
 
 
