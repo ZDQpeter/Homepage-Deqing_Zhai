@@ -17,7 +17,7 @@
     I had been working in Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A\*STAR) as a research scientist from 2018 to 2021. After A\*STAR, I had been working in Department of Digital & Technology (D&T) of Keppel Land (Keppel Corporation) as a senior data scientist and deputy manager from 2021 to present. The reserach direction was focused on machine learning and optimization over different domains of AI x IoT in my works, such as in the fields of maritime, supply chain, logistics, industrial production line, smart buildings, market analytics, etc. </p>
 
 <p align="justify">
-    Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels. For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).</p>
+    Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> For more details, please see my LinkedIn profile by clicking [here](http://www.linkedin.com/in/deqing-zhai-a05116a2).
 
 
 
