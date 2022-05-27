@@ -59,7 +59,7 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 # Research Projects - Details
 
 ## [11] 100-Day Leaders Challenge: Change Enablers Initiatives
-    1) Involve in experimentation design for hyppothesis testing
+    1) Involve in experimentation design for hypothesis testing
     2) Conduct statistical analyses to validate hypothesis and draw insightful conclusions for further analytics
 
 ## [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC
@@ -172,4 +172,4 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
 
-Updated on 2022-05-26, 16:36 (UTC+08:00)
+Updated on 2022-05-27, 17:45 (UTC+08:00)
