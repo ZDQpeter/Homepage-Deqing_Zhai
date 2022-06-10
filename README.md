@@ -174,9 +174,9 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 ## [1] Smart Home: Indoor Air Quality Monitoring Systems
 
-![Project Information](./Information.jpg)
+![Information](./Information.jpg)
 
-![Project Dashboard](./Dashboard1.jpg)
+![Dashboard1](./Dashboard1.jpg)
 
 -------------------------------------------------------------------
 
