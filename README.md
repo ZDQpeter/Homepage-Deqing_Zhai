@@ -170,9 +170,9 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 -------------------------------------------------------------------
 
-# DIY Project:
+# DIY Projects:
 
-## Indoor Air Quality Monitoring Systems
+## [1] Smart Home: Indoor Air Quality Monitoring Systems
 
 ![Project Information](./Information.jpg)
 
