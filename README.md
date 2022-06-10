@@ -172,7 +172,7 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 # DIY Projects:
 
-## [1] Smart Home: Indoor Air Quality Monitoring Systems
+## [1] Monitoring Indoor Air Quality: Smart Home Systems
 
 ![Information](./Information.jpg)
 
@@ -182,4 +182,4 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
 
-Updated on 2022-06-10 14:28 (UTC+08:00)
+Updated on 2022-06-10 15:21 (UTC+08:00)
