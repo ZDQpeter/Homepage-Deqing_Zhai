@@ -176,7 +176,7 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 ![Information](./Information1.jpg)
 
-![Dashboard1](./Dashboard.jpg)
+![Dashboard1](./Dashboard1.jpg)
 
 -------------------------------------------------------------------
 
