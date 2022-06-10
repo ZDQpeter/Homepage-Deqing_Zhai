@@ -170,6 +170,16 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 -------------------------------------------------------------------
 
+# DIY Project:
+
+## Indoor Air Quality Monitoring Systems
+
+![Project Information]()
+
+![Project Dashboard]()
+
+-------------------------------------------------------------------
+
 Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
 
 Updated on 2022-05-27, 17:45 (UTC+08:00)
