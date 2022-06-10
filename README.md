@@ -174,9 +174,9 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 ## Indoor Air Quality Monitoring Systems
 
-![Project Information]()
+![Project Information](./Information.jpg)
 
-![Project Dashboard]()
+![Project Dashboard](./Dashboard1.jpg)
 
 -------------------------------------------------------------------
 
