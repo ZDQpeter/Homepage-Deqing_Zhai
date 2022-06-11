@@ -5,13 +5,13 @@
     Good day. Welcome to my homepage.</p>
 
 <p align="justify">
-    I graduated both bachelor and PhD degrees in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in the year of 2014 and 2018, respectively.</p>
+    I graduated both bachelor and Ph.D. degrees in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in the year of 2014 and 2018, respectively.</p>
 
 <p align="justify">
     In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
-    In my PhD study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
+    In my Ph.D. study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
     I had been working in Department of Systems Science (SS) at Institute of High Performance Computing (IHPC) at Agency for Science, Technology and Research (A*STAR) as a research scientist from 2018 to 2021. After A*STAR, I had been working in Department of Digital & Technology (D&T) at Keppel Land (Keppel Corporation) as a senior data scientist and deputy manager from 2021 to present. The reserach direction was focused on machine learning and optimization over different domains of AI x IoT in my works, such as in the fields of maritime, supply chain, logistics, industrial production line, smart buildings, market analytics, etc. </p>
@@ -165,8 +165,8 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 [1] **Deqing Zhai** and Yeng Chai Soh, "Research on indoor air-flow measurements and predictions with different methods", 2015 International OSA Network of Students (IONS), The Optical Society, pp. 52–56 [2015].
 
-## 3. PhD Thesis:
-[[1]](https://dr.ntu.edu.sg/handle/10220/48443) **Deqing Zhai**, "Modeling and optimization of ACMV systems for energy efficient smart buildings", Doctoral thesis, Nanyang Technological University, Singapore, [2019].
+## 3. Ph.D. Thesis:
+[[1]](https://dr.ntu.edu.sg/handle/10220/48443) **Deqing Zhai**, "Modeling and optimization of ACMV systems for energy efficient smart buildings", Doctoral Thesis, Nanyang Technological University, Singapore, [2019].
 
 -------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
 
-Updated on 2022-06-11 17:34 (UTC+08:00)
+Updated on 2022-06-11 17:39 (UTC+08:00)
