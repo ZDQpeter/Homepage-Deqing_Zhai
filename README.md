@@ -180,6 +180,6 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 -------------------------------------------------------------------
 
-Any enquiry, please kindly email me via: dzhai001 [at] e.ntu.edu.sg
+Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg.
 
-Updated on 2022-06-11 17:39 (UTC+08:00)
+Updated on 2022-06-11 21:59 (UTC+08:00)
