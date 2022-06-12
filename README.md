@@ -19,7 +19,7 @@
 <p align="justify">
     Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> 
     
-For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing-zhai-a05116a2) profile.
+For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqing-zhai-ph-d-a05116a2/) profile.
 
 
 -------------------------------------------------------------------
@@ -182,4 +182,4 @@ For more details, may also check my [LinkedIn](http://www.linkedin.com/in/deqing
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg.
 
-Updated on 2022-06-11 21:59 (UTC+08:00)
+Updated on 2022-06-12 16:12 (UTC+08:00)
