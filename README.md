@@ -42,7 +42,8 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Overview
-    [11] 100-Day Leaders Challenge: Change Enablers Initiatives (D&T and CX, Keppel: 2022)
+    [12] JCI Data Research with Snowflake ((D&T and KTI, Keppel: 2022-Present)
+    [11] 100-Day Leadership Challenge: Change Enabler Initiatives (D&T and CX, Keppel: 2022)
     [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC (D&T and KTI, Keppel: 2022)
     [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-Present)
     [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
@@ -58,9 +59,13 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Projects - Details
 
-## [11] 100-Day Leaders Challenge: Change Enablers Initiatives
+## [12] JCI Data Research with Snowflake
+    1) Conduct data migration from JCI to Snowflake
+    2) Conduct data analytics, ML-based modelling and optimization
+
+## [11] 100-Day Leadership Challenge: Change Enabler Initiatives
     1) Involve in experimentation design for hypothesis testing
-    2) Conduct statistical analyses to validate hypothesis and draw insightful conclusions for further analytics
+    2) Conduct statistical analyses to validate hypothesis and draw insightful conclusions for initiatives
 
 ## [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC
     1) Using Third-party API to request data ingestion for Snowflake platform
@@ -180,6 +185,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 -------------------------------------------------------------------
 
-Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg.
-
-Updated on 2022-06-12 16:12 (UTC+08:00)
+Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. [Updated: 2022-06-14 20:52 (UTC+08:00)]
