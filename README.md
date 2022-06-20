@@ -183,6 +183,11 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ![Dashboard1](./Dashboard1.jpg)
 
+
+## [2] Analyzing NBA Championship Finals 2022: GSW vs. BOS
+
+![Correlation](./WholeTeamStats1.png)
+
 -------------------------------------------------------------------
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
