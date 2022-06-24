@@ -187,16 +187,15 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # DIY Projects:
 
+## [2] Analyzing NBA Championship Finals 2022: GSW vs. BOS
+
+![WholeTeamStats](./WholeTeamStats1.png)
+
 ## [1] Monitoring Indoor Air Quality: Smart Home Systems
 
 ![Information](./Information1.jpg)
 
 ![Dashboard](./Dashboard1.jpg)
-
-
-## [2] Analyzing NBA Championship Finals 2022: GSW vs. BOS
-
-![WholeTeamStats](./WholeTeamStats1.png)
 
 -------------------------------------------------------------------
 
