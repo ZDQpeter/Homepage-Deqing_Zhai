@@ -26,26 +26,26 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Interests
 
-## DAMO:
+## DAMO
     1) Data Analytics (Statistical analysis, Hypothesis testing, etc.)
     2) Modelling (Physics-based, ML-based, Hybrid, etc.)
     3) Optimization (Analytical-based, Nature-inspied, etc.)
 
-## Domains:
+## Domains
     1) AI x IoT (e.g. Smart Cities/Buildings/Homes, etc.)
     2) Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air, etc.)
     3) Healthcare (e.g. Diagnosis Classification, etc.)
 
 -------------------------------------------------------------------
 
-# Research Techniques:
+# Research Techniques
 
-## Machine Learning:
+## Machine Learning
     1) Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, K Nearest Neighbour, Random Forest, Gradient Boost, XGBoost.
     2) Unsupervised Learning: Multi Decomposed Gaussian Sampling, K-Means, Principal Component Analysis.
     3) Reinforcement Learning: Policy Gradient, Q-Learning.
     
-## Optimization Algorithms: 
+## Optimization Algorithms
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
 
