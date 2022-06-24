@@ -25,24 +25,34 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Interests
-## 1. Machine Learning:
+
+## DAMO:
+### 1. Data Analytics (Statistical analysis, Hypothesis testing, etc.)
+### 2. Modelling (Physics-based, ML-based, Hybrid, etc.)
+### 3. Optimization (Analytical-based, Nature-inspied, etc.)
+
+## Domains:
+### 1. AI x IoT (e.g. Smart Cities/Buildings/Homes, etc.)
+### 2. Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air, etc.)
+### 3. Healthcare (e.g. Diagnosis Classification, etc.)
+
+-------------------------------------------------------------------
+
+Research Techniques:
+
+## Machine Learning:
     1) Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, K Nearest Neighbour, Random Forest, Gradient Boost, XGBoost.
     2) Unsupervised Learning: Multi Decomposed Gaussian Sampling, K-Means, Principal Component Analysis.
     3) Reinforcement Learning: Policy Gradient, Q-Learning.
     
-## 2. Optimization Algorithms: 
+## Optimization Algorithms: 
     1) Classical: : Particle Swarm Optimization, Genetic Algorithm, Augmented Firefly Algorithm, Monte Carlo Sampling and Simulation, Gradient Descent, Quadratic Programming, Quadratic Unconstrained Binary Optimization, Minimum Eigensolver.
     2) Quantum: Variational Quantum Eigensolver, Quantum Approximate Optimization Algorithm.
-    
-## 3. Domains: 
-    1) AI x IoT (e.g. Smart Cities/Buildings/Homes, etc.)
-    2) Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air, etc.)
-    3) Healthcare (e.g. Diagnosis Classification, etc.)
 
 -------------------------------------------------------------------
 
 # Research Projects - Overview
-    [12] JCI Data Research with Snowflake ((D&T and KTI, Keppel: 2022-Present)
+    [12] JCI Data Research with Snowflake (D&T and KTI, Keppel: 2022-Present)
     [11] 100-Day Leadership Challenge: Change Enabler Initiatives (D&T and CX, Keppel: 2022)
     [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC (D&T and KTI, Keppel: 2022)
     [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-Present)
@@ -181,12 +191,12 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ![Information](./Information1.jpg)
 
-![Dashboard1](./Dashboard1.jpg)
+![Dashboard](./Dashboard1.jpg)
 
 
 ## [2] Analyzing NBA Championship Finals 2022: GSW vs. BOS
 
-![Correlation](./WholeTeamStats1.png)
+![WholeTeamStats](./WholeTeamStats1.png)
 
 -------------------------------------------------------------------
 
