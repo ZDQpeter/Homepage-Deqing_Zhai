@@ -27,18 +27,18 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 # Research Interests
 
 ## DAMO:
-### 1. Data Analytics (Statistical analysis, Hypothesis testing, etc.)
-### 2. Modelling (Physics-based, ML-based, Hybrid, etc.)
-### 3. Optimization (Analytical-based, Nature-inspied, etc.)
+    1) Data Analytics (Statistical analysis, Hypothesis testing, etc.)
+    2) Modelling (Physics-based, ML-based, Hybrid, etc.)
+    3) Optimization (Analytical-based, Nature-inspied, etc.)
 
 ## Domains:
-### 1. AI x IoT (e.g. Smart Cities/Buildings/Homes, etc.)
-### 2. Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air, etc.)
-### 3. Healthcare (e.g. Diagnosis Classification, etc.)
+    1) AI x IoT (e.g. Smart Cities/Buildings/Homes, etc.)
+    2) Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air, etc.)
+    3) Healthcare (e.g. Diagnosis Classification, etc.)
 
 -------------------------------------------------------------------
 
-Research Techniques:
+# Research Techniques:
 
 ## Machine Learning:
     1) Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, K Nearest Neighbour, Random Forest, Gradient Boost, XGBoost.
@@ -202,4 +202,4 @@ Research Techniques:
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-06-20 17:50 (SGT)
+Last Updated: 2022-06-24 09:06 (SGT)
