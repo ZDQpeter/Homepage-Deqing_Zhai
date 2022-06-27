@@ -187,7 +187,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # DIY Projects:
 
-## [3] BlueSG Carsharing Big Screen
+## [3] Analyzing BlueSG Carsharing: A Big Screen for Big Data Analytics
 
 ![BlueSG_BigScreen](./BlueSG_BigScreen.jpg)
 
@@ -205,4 +205,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-06-27 17:36 (SGT)
+Last Updated: 2022-06-27 17:48 (SGT)
