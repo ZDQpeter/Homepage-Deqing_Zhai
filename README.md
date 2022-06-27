@@ -189,7 +189,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ## [3] BlueSG Carsharing Big Screen
 
-![BlueSG_BigScreen](./BlueSG_BigScreen.png)
+![BlueSG_BigScreen](./BlueSG_BigScreen.jpg)
 
 ## [2] Analyzing NBA Championship Finals 2022: GSW vs. BOS
 
@@ -205,4 +205,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-06-27 17:33 (SGT)
+Last Updated: 2022-06-27 17:36 (SGT)
