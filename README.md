@@ -185,7 +185,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 -------------------------------------------------------------------
 
-# DIY Projects:
+# DIY Projects (Partially Presented):
 
 ## [3] Analyzing BlueSG Carsharing: A Big Screen for Big Data Analytics
 
