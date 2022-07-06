@@ -195,7 +195,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ## [3] Dean’s List, Nanyang Technological University, Singapore [2014]
 
-## [2] MOE Scholar in Nanyang Technological University, Singapore [2011]
+## [2] MOE Scholar, Nanyang Technological University, Singapore [2011]
 
 ## [1] Third Prize International Mathematical Olympiad, Hebei, China [2003]
 
