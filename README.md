@@ -187,11 +187,13 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Awards:
 
-## [5] Smart Cities Ambassador, IEEE Singapore Section [2021-Present]
+## [6] Smart Cities Ambassador, IEEE Singapore Section [2021-Present]
 
-## [4] Research Scholar in Nanyang Technological University, Singapore [2014-2018]
+## [5] Research Scholar, Nanyang Technological University, Singapore [2014-2018]
 
-## [3] First-Class Honored and Dean’s list in Nanyang Technological University, Singapore [2014]
+## [4] First-Class Honour, Nanyang Technological University, Singapore [2014]
+
+## [3] Dean’s List, Nanyang Technological University, Singapore [2014]
 
 ## [2] MOE Scholar in Nanyang Technological University, Singapore [2011]
 
@@ -219,4 +221,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-07-06 11:28 (SGT)
+Last Updated: 2022-07-06 11:30 (SGT)
