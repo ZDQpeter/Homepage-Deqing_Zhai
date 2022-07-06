@@ -187,6 +187,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Awards:
 
+<p align="justify">
 [6] Smart Cities Ambassador, IEEE Singapore Section [2021-Present]
 
 [5] Research Scholar, Nanyang Technological University, Singapore [2014-2018]
@@ -195,9 +196,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [3] Dean’s List, Nanyang Technological University, Singapore [2014]
 
-[2] MOE Scholar, Nanyang Technological University, Singapore [2011]
+[2] MOE Scholar, Nanyang Technological University, Singapore [2011-2014]
 
 [1] Third Prize International Mathematical Olympiad, Hebei, China [2003]
+</p>
 
 -------------------------------------------------------------------
 
