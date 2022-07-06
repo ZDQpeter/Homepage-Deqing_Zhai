@@ -185,6 +185,20 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 -------------------------------------------------------------------
 
+# Awards:
+
+[5] 2021 Smart Cities Ambassador, IEEE Singapore Section
+
+[4] 2018 Research Scholar in Nanyang Technological University, Singapore
+
+[3] 2014 First-Class Honored and Dean’s list in Nanyang Technological University, Singapore
+
+[2] 2011 MOE Scholar in Nanyang Technological University, Singapore
+
+[1] 2003 Third Prize International Mathematical Olympiad, Hebei, China
+
+-------------------------------------------------------------------
+
 # DIY Projects (Partially Presented):
 
 ## [3] Analyzing BlueSG Carsharing: A Big Screen for Big Data Analytics
@@ -205,4 +219,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-06-27 17:48 (SGT)
+Last Updated: 2022-07-06 11:22 (SGT)
