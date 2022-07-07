@@ -199,6 +199,15 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [1] Third Prize International Mathematical Olympiad, Hebei, China [2006]
 
+-------------------------------------------------------------------
+
+# Organizations:
+
+[5] Yaseen Academy Committee [2021-Present]
+[4] IEEE Smart Cities Committee [2020-Present]
+[3] IEEE Industrial Electronics Society [2017-Present]
+[2] IEEE Young Professionals [2017-Present]
+[1] IEEE Student Member [2017-2019], IEEE Member [2019-Present]
 
 -------------------------------------------------------------------
 
@@ -222,4 +231,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-07-07 10:58 (SGT)
+Last Updated: 2022-07-07 11:02 (SGT)
