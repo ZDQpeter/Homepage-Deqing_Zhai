@@ -217,15 +217,15 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # DIY Projects (Partially Presented):
 
-## [3] Analyzing BlueSG Carsharing: A Big Screen for Big Data Analytics
+[3] Analyzing BlueSG Carsharing: A Big Screen for Big Data Analytics
 
 ![BlueSG_BigScreen](./BlueSG_BigScreen.jpg)
 
-## [2] Analyzing NBA Championship Finals 2022: GSW vs. BOS
+[2] Analyzing NBA Championship Finals 2022: GSW vs. BOS
 
 ![WholeTeamStats](./WholeTeamStats1.png)
 
-## [1] Monitoring Indoor Air Quality: Smart Home Systems
+[1] Monitoring Indoor Air Quality: Smart Home Systems
 
 ![Information](./Information1.jpg)
 
@@ -235,4 +235,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-07-07 11:03 (SGT)
+Last Updated: 2022-07-07 17:02 (SGT)
