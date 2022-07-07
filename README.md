@@ -122,7 +122,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters.
 
 ## [1 & 2 & 3] Air-Conditioning and Mechanical Ventilation Systems
-    1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WHU) and Condenser.
+    1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WCHU) and Condenser.
     2) Evaluate energy consumption on different operating schemes.
     3) Evaluate environmental parameter effects on different operating schemes.
     4) Optimize multi-objective on energy efficiency and thermal comfort for operating ACMV systems.    
@@ -197,7 +197,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [2] MOE Scholar, Nanyang Technological University, Singapore [2011-2014]
 
-[1] Third Prize International Mathematical Olympiad, Hebei, China [2003]
+[1] Third Prize International Mathematical Olympiad, Hebei, China [2006]
 
 
 -------------------------------------------------------------------
