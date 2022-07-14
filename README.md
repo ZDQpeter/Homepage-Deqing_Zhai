@@ -203,9 +203,11 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Organizations:
 
-[5] Yaseen Academy Committee [2021-Present]
+[6] Yaseen Academy Committee [2021-Present]
 
-[4] IEEE Smart Cities Committee [2020-Present]
+[5] IEEE Smart Cities Committee [2020-Present]
+
+[4] Elsevier Panel Advisor [2017-Present]
 
 [3] IEEE Industrial Electronics Society [2017-Present]
 
