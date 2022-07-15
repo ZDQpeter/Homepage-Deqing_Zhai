@@ -227,7 +227,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ![WholeTeamStats](./WholeTeamStats1.png)
 
-[1] Monitoring Indoor Air Quality: Smart Home Systems
+[1] Monitoring and Analyzing Indoor Air Quality: Smart Home Systems
 
 ![Information](./Information1.jpg)
 
@@ -237,4 +237,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-07-08 10:30 (SGT)
+Last Updated: 2022-07-15 10:31 (SGT)
