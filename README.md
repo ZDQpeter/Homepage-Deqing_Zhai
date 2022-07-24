@@ -29,7 +29,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 ## DAMO
     1) Data Analytics (Statistical analysis, Hypothesis testing, etc.)
     2) Modelling (Mathematical Physics-based, ML-based, Hybrid, etc.)
-    3) Optimization (Analytical-based, Nature-inspied, etc.)
+    3) Optimization (Analytical-based, Heuristic-based, etc.)
 
 ## Domains
     1) AI x IoT (e.g. Smart Cities/Buildings/Homes, etc.)
