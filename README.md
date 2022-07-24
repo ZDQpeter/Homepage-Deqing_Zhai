@@ -28,7 +28,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ## DAMO
     1) Data Analytics (Statistical analysis, Hypothesis testing, etc.)
-    2) Modelling (Physics-based, ML-based, Hybrid, etc.)
+    2) Modelling (Mathematical Physics-based, ML-based, Hybrid, etc.)
     3) Optimization (Analytical-based, Nature-inspied, etc.)
 
 ## Domains
@@ -237,4 +237,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-07-15 10:31 (SGT)
+Last Updated: 2022-07-24 16:20 (SGT)
