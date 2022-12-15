@@ -221,7 +221,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [4] Analyzing Carsharing Statistics: A Utilization-based Data Analytics
 
-![Statistics](./Stats_Figures.html)
+![Statistics](./Whole_Stats.jpg)
 
 [3] Analyzing BlueSG Carsharing: A Big Screen for Big Data Analytics
 
