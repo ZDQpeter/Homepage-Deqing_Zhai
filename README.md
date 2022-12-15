@@ -219,6 +219,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # DIY Projects (Partially Presented):
 
+[4] Analyzing Carsharing Statistics: A Utilization-based Data Analytics
+
+![Statistics](./Whole_Stats.jpg)
+
 [3] Analyzing BlueSG Carsharing: A Big Screen for Big Data Analytics
 
 ![BlueSG_BigScreen](./BlueSG_BigScreen.jpg)
@@ -237,4 +241,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2022-07-24 16:20 (SGT)
+Last Updated: 2022-12-15 15:31 (SGT)
