@@ -162,7 +162,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 ## 2. Conference:
 [[10]](https://ieeexplore.ieee.org/document/9248206) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Wanbing Zhang, "Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation", 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA), [2020].
 
-[[9]](https://nfas.autonomous-ship.org/wp-content/uploads/2020/09/78_icmass19.pdf) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Rick Siow Mong Goh, "Digitalisation and predictive modelling of berth stay time windows for tanker operation enhancement", MTEC – ICMASS [2019].
+[[9]](https://nfas.autonomous-ship.org/wp-content/uploads/2020/09/78_icmass19.pdf) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Rick Siow Mong Goh, "Digitalisation and predictive modelling of berth stay time windows for tanker operation enhancement", Trondheim, Norway, International Maritime and Port Technology and Development Conference (MTEC) & International Conference on Maritime Autonomous Surface Ship (ICMASS), [2019].
 
 [[8]](https://ieeexplore.ieee.org/document/8978867) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Vasundhara Jayaraman, Wanbing Zhang and Rick Siow Mong Goh, "Optimization and Simulation on Tanker Vessels Scheduling for Efficient Terminal Operations", 2019 IEEE International Conference on Industrial Engineering & Engineering Management (IEEM), [2019].
 
