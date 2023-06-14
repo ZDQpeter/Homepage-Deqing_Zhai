@@ -52,10 +52,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Overview
-    [12] JCI Data Research with Snowflake (D&T and KTI, Keppel: 2022-Present)
+    [12] JCI Data Research with Snowflake (D&T and KTI, Keppel: 2022-Present Ongoing)
     [11] 100-Day Leadership Challenge: Change Enabler Initiatives (D&T and CX, Keppel: 2022)
     [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC (D&T and KTI, Keppel: 2022)
-    [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-Present)
+    [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-Present Ongoing)
     [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
     [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021)
     [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021)
@@ -82,50 +82,50 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     2) Involve in customer 360 modelling for classifying different customers
 
 ## [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives
-    1) Perform data analyses on KBT big data.
-    2) Develop predictive models of energy profile and environment profile of KBT building.
-    3) Develop optimization algorithm for energy efficient KBT building operations.
+    1) Perform data analytics on KBT IoT big data
+    2) Develop predictive models of energy profile and environment profile of KBT building
+    3) Develop optimization algorithm for energy efficient KBT building operations
 
 ## [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC
-    1) Perform data analyses on the food supply.
-    2) Develop predictive models of food imported.
-    3) Develop supply chain associative net works of food imported.
+    1) Perform data analyses on the food supply
+    2) Develop predictive models of food imported
+    3) Develop supply chain associative net works of food imported
     
 ## [6 & 7] Arcstone Programme
-    1) Develop predictive modeling on cycletime of production line physics-based and distribution-based.
-    2) Develop predictive modeling on cycletime of production line ML-based.
-    3) Develop predictive modeling on cycletime of production line hybrid-based.
-    4) Develop scheduling and re-scheduling models of different scenarios during production.
+    1) Develop predictive modeling on cycletime of production line physics-based and distribution-based
+    2) Develop predictive modeling on cycletime of production line ML-based
+    3) Develop predictive modeling on cycletime of production line hybrid-based
+    4) Develop scheduling and re-scheduling models of different scenarios during production
     
 ## [4] Quantum Computing
-    1) Explore to learn quantum algorithms.
-    2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems.
-    3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts.
+    1) Explore to learn quantum algorithms
+    2) Explore to translate classical optimization problems into quantum compatible and solvable problems, e.g. QUBO with some toy problems
+    3) Explore to develop classical-quantum hybrid algorithms for certain applicable use-cases with efficiently computational efforts
     
 ## [4] Maritime Supply Chain and Logistics
-    1) Identify trajectory patterns of vessels.
-    2) Identify key locations of potential collision situational awareness.
-    3) Develop stay location and duration detection based on automatic identification system (AIS).
-    4) Develop route identification and waypoints for global traffic trajectories.
-    5) Develop physics-based predictive modeling on estimated time of arrival (ETA) of vessels.
+    1) Identify trajectory patterns of vessels
+    2) Identify key locations of potential collision situational awareness
+    3) Develop stay location and duration detection based on automatic identification system (AIS)
+    4) Develop route identification and waypoints for global traffic trajectories
+    5) Develop physics-based predictive modeling on estimated time of arrival (ETA) of vessels
 
 ## [4 & 5] Maritime Operational Research
-    1) Develop predictive modeling on durations of cargo operations for vessel berthing at terminals.
-    2) Develop predictive modeling on expected time to unberth (ETUB) for vessel berthing at terminals.
-    3) Schedule and optimize on terminal/berth/vessel utilization given a desired time window and scenarios.
-    4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port.
-    5) Minimize wait time and turnaround time of vessels.
+    1) Develop predictive modeling on durations of cargo operations for vessel berthing at terminals
+    2) Develop predictive modeling on expected time to unberth (ETUB) for vessel berthing at terminals
+    3) Schedule and optimize on terminal/berth/vessel utilization given a desired time window and scenarios
+    4) Increase operation efficiency of terminals/berths/vessels, maximize throughput over Singapore passage and port
+    5) Minimize wait time and turnaround time of vessels
 
 ## [1] Thermal Comfort
-    1) Develop passive approach physics modelling based on Fanger's environmental parameters.
-    2) Develop active approach ML modelling based on occupant's physiological parameters.
-    3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters.
+    1) Develop passive approach physics modelling based on Fanger's environmental parameters
+    2) Develop active approach ML modelling based on occupant's physiological parameters
+    3) Develop hybrid approach ML modelling based on environmental parameters and physiological parameters
 
 ## [1 & 2 & 3] Air-Conditioning and Mechanical Ventilation Systems
-    1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WCHU) and Condenser.
-    2) Evaluate energy consumption on different operating schemes.
-    3) Evaluate environmental parameter effects on different operating schemes.
-    4) Optimize multi-objective on energy efficiency and thermal comfort for operating ACMV systems.    
+    1) Develop control systems for Air-Handling Unit (AHU), Water Chiller Unit (WCHU) and Condenser
+    2) Evaluate energy consumption on different operating schemes
+    3) Evaluate environmental parameter effects on different operating schemes
+    4) Optimize multi-objective on energy efficiency and thermal comfort for operating ACMV systems 
     
 -------------------------------------------------------------------
 
