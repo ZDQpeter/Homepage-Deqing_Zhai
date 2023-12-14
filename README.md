@@ -160,9 +160,9 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 [[1]](https://doi.org/10.1016/j.buildenv.2017.02.007) Chaoyang Jiang, Yeng Chai Soh, Hua Li, Mustafa K. Masood, Zhe Wei, Xiaoli Zhou and **Deqing Zhai**, “CFD results calibration from sparse sensor observations with a case study for indoor thermal map,” Building and Environment, vol. 117, pp. 166–177, [2017].
     
 ## 2. Conference:
-[[12]]() **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Profiling Energy and Built Environment Performance of A Smart Building in Singapore: A Case Study of Multi-Periods of Covid-19 Pandemic", 2023 IEEE 49th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Singapore, [2023].
+[[12]](https://ieeexplore.ieee.org/document/10311972) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Profiling Energy and Built Environment Performance of A Smart Building in Singapore: A Case Study of Multi-Periods of Covid-19 Pandemic", 2023 IEEE 49th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Singapore, [2023].
 
-[[11]]() **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Evaluating Changing Extents of Built Environment from Singapore Measures against Covid-19: A Case Study of A Smart Building", 2023 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Ningbo, China, [2023].
+[[11]](https://ieeexplore.ieee.org/document/10241825) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Evaluating Changing Extents of Built Environment from Singapore Measures against Covid-19: A Case Study of A Smart Building", 2023 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Ningbo, China, [2023].
 
 [[10]](https://ieeexplore.ieee.org/document/9248206) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Wanbing Zhang, "Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation", 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2020].
 
@@ -245,4 +245,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2023-08-08 16:07 (SGT)
+Last Updated: 2023-12-14 14:23 (SGT)
