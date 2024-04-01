@@ -69,7 +69,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Projects - Details
 
-## [12] JCI Data Research with Snowflake
+## [12] Data Integration
     1) Conduct data migration from JCI to Snowflake
     2) Conduct data analytics, ML-based modelling and optimization
 
@@ -86,6 +86,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     2) Develop predictive models of energy profile and environment profile of KBT building
     3) Develop optimization algorithm for energy efficient KBT building operations
     4) Develop chiller plant optimization via data-driven heuristic algorithm
+    5) Develop AI/ML-based occupancy predictive models and carbon dioxide predictive models
 
 ## [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC
     1) Perform data analyses on the food supply
