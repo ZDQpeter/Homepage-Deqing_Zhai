@@ -191,6 +191,8 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Awards:
 
+[7] Singapore Business Review Technology Excellence Awards @ AI + Real Estate Awarded [2024]
+
 [6] IEEE Smart Cities Ambassador, IEEE Singapore Section [2021-Present]
 
 [5] NTU Research Scholar, Nanyang Technological University, Singapore [2014-2018]
@@ -245,4 +247,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2023-12-14 14:23 (SGT)
+Last Updated: 2024-04-23 20:55 (SGT)
