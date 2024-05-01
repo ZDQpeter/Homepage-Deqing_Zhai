@@ -133,6 +133,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Publications
 
+[[29]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Conserving Energy of Office Lighting by Smart Features in Singapore Buildings", 2024 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2024].
+
+[[28]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Predicting Carbon Dioxide Levels for Built Environment of Flexible and Hot-desking Offices in Different Scenarios", 2024 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2024].
+
 [[27]](https://ieeexplore.ieee.org/document/10311972) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Profiling Energy and Built Environment Performance of A Smart Building in Singapore: A Case Study of Multi-Periods of Covid-19 Pandemic", 2023 IEEE 49th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Singapore, [2023].
 
 [[26]](https://ieeexplore.ieee.org/document/10241825) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Evaluating Changing Extents of Built Environment from Singapore Measures against Covid-19: A Case Study of A Smart Building", 2023 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Ningbo, China, [2023].
@@ -247,4 +251,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2024-04-23 20:55 (SGT)
+Last Updated: 2024-05-01 16:41 (SGT)
