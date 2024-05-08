@@ -19,7 +19,7 @@
 <p align="justify">
     Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> 
     
-For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqingzhai) profile.
+For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqingzhai) and [Zhihu](https://www.zhihu.com/people/peter-zhai-333/posts) for more fun articles written by myself.
 
 
 -------------------------------------------------------------------
