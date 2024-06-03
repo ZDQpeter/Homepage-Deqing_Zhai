@@ -197,7 +197,6 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [[7]](https://www.linkedin.com/feed/update/urn:li:activity:7200700987471192064/) Singapore Business Review Technology Excellence Awards @ AI + Real Estate Awarded [2024]
 ![SBR1 Awards 2024](./SBR_1.jpg)
-![SBR2 Awards 2024](./SBR_2.jpg)
 
 [6] IEEE Smart Cities Ambassador, IEEE Singapore Section [2021-Present]
 
