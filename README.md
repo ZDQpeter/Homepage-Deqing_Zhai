@@ -252,6 +252,14 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # DIY Projects (Partially Presented):
 
+[6] ACMV System: Data Visualization GUI
+
+![DV_LargeScreen](./DV_LargeScreen.jpg)
+
+[5] ACMV System: Data Extraction GUI
+
+![Data_Extraction](./DE.jpg)
+
 [4] Analyzing Carsharing Statistics: A Utilization-based Data Analytics
 
 ![Statistics](./Whole_Stats.jpg)
@@ -274,4 +282,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2024-06-27 16:45 (SGT)
+Last Updated: 2024-06-27 16:50 (SGT)
