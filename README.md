@@ -73,16 +73,16 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Projects - Details
 
-## [16] Microsoft Fabric POC: Research on Data Sciences (D&D, Keppel: 2024)
+## [16] Microsoft Fabric POC: Research on Data Sciences
     1) Explore and research on data sciences capability on Fabric
     2) Build, evaluate and deploy ML-based models and respective metrics
     
-## [15] Data Centre Land Banking: Initiatives for India and Thailand (D&D, Keppel: 2024)
+## [15] Data Centre Land Banking: Initiatives for India and Thailand
     1) Analyze global researches, reports, and data from related websites on relevant topics
     2) Develop supply-demand models for data centre in India and Thailand
     3) Develop predictive models for forecasting next few years' trending on DC sites
     
-## [14] SUR Solutions: Smart Lighting Optimization (D&D, Keppel: 2024)
+## [14] SUR Solutions: Smart Lighting Optimization
     1) Analyze historical usage pattern and occupancy pattern
     2) Develop smart features on lighting systems - Save about 51% energy from BAU baseline
     
@@ -282,4 +282,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2024-06-27 16:50 (SGT)
+Last Updated: 2024-06-27 16:55 (SGT)
