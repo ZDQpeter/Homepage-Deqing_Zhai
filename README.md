@@ -52,7 +52,11 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Overview
-    [12] JCI Data Research with Snowflake (D&T and KTI, Keppel: 2022-Present Ongoing)
+    [16] Microsoft Fabric POC: Research on Data Sciences (D&D, Keppel: 2024)
+    [15] Data Centre Land Banking: Initiatives for India and Thailand (D&D, Keppel: 2024)
+    [14] SUR Solutions: Smart Lighting Optimization (D&D, Keppel: 2024)
+    [13] SUR Solutions: AHU and Chiller Plant Analyses & Optimizations (D&D, Keppel: 2024)
+    [12] JCI Data Integration with Snowflake (D&T and KTI, Keppel: 2022-Present Ongoing)
     [11] 100-Day Leadership Challenge: Change Enabler Initiatives (D&T and CX, Keppel: 2022)
     [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC (D&T and KTI, Keppel: 2022)
     [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-Present Ongoing)
@@ -69,7 +73,24 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Projects - Details
 
-## [12] Data Integration
+## [16] Microsoft Fabric POC: Research on Data Sciences (D&D, Keppel: 2024)
+    1) Explore and research on data sciences capability on Fabric
+    2) Build, evaluate and deploy ML-based models and respective metrics
+    
+## [15] Data Centre Land Banking: Initiatives for India and Thailand (D&D, Keppel: 2024)
+    1) Analyze global researches, reports, and data from related websites on relevant topics
+    2) Develop supply-demand models for data centre in India and Thailand
+    3) Develop predictive models for forecasting next few years' trending on DC sites
+    
+## [14] SUR Solutions: Smart Lighting Optimization (D&D, Keppel: 2024)
+    1) Analyze historical usage pattern and occupancy pattern
+    2) Develop smart features on lighting systems - Save about 51% energy from BAU baseline
+    
+## [13] SUR Solutions: AHU and Chiller Plant Analyses & Optimizations
+    1) Analyze historical data from AHU and Chiller Plants
+    2) Develop ML-based and physics-based models for proactive optmizations - Save about 10-30% energy from BAU baseline
+
+## [12] JCI Data Integration with Snowflake
     1) Conduct data migration from JCI to Snowflake
     2) Conduct data analytics, ML-based modelling and optimization
 
@@ -253,4 +274,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2024-06-03 17:00 (SGT)
+Last Updated: 2024-06-27 16:45 (SGT)
