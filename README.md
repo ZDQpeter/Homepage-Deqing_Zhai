@@ -252,7 +252,11 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 -------------------------------------------------------------------
 
-# DIY Projects (Partially Presented):
+# Interesting Projects (Partially Presented):
+
+[7] Macro-Economic Analytics GUI
+
+![DC_by_DDA](./DC_by_DDA.jpg)
 
 [6] ACMV System: Data Visualization GUI
 
