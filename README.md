@@ -154,7 +154,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Publications
 
-[[30]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Optimizing Chiller Plant towards Carbon Neutrality by Leveraging Weather Forecast Model: A Case Study of An Office Building in Singapore", 2024 IEEE 50th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Singapore, [2024].
+[[30]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Optimizing Chiller Plant towards Carbon Neutrality by Leveraging Weather Forecast Model: A Case Study of An Office Building in Singapore", 2024 IEEE 50th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Chicago, USA, [2024].
 
 [[29]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Conserving Energy of Office Lighting by Smart Features in Singapore Buildings", 2024 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2024].
 
