@@ -14,7 +14,7 @@
     In my Ph.D. study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
-    I had been working in Department of Systems Science (SS) at Institute of High Performance Computing (IHPC) at Agency for Science, Technology and Research (A*STAR) as a research scientist from 2018 to 2021. After A*STAR, I had been working in Department of Digital & Technology and Department of Data & Digital at Keppel Ltd. as a data scientist (Exp.) and manager since 2021. The research interests focus on data analytics, machine learning and optimization algorithm development over different domains of AI x IoT, such as maritime, supply chain, logistics, industrial production line, smart buildings, market analytics, etc. </p>
+    I had been working in Department of Systems Science (SS) at Institute of High Performance Computing (IHPC) at Agency for Science, Technology and Research (A*STAR) as a research scientist from 2018 to 2021. After A*STAR, I had been working in Department of Digital & Technology and Department of Data & Digital at Keppel Ltd. as a data scientist (Exp.) and manager since 2021. The research interests focus on data analytics, machine learning and optimization algorithm development over different domains of AI x IoT, such as maritime, supply chain, logistics, industrial production line, smart buildings, data centre, market analytics, etc. </p>
 
 <p align="justify">
     Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> 
@@ -52,8 +52,11 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Overview
+    [19] Investor IQ POC (D&D, Keppel: 2025)
+    [18] RE AWS IoT Platform POC (D&D, Keppel: 2025)
+    [17] Spring City Resort Digitalization (D&D, Keppel: 2025)
     [16] Microsoft Fabric POC: Research on Data Sciences (D&D, Keppel: 2024)
-    [15] Data Centre Land Banking: Initiatives for India and Thailand (D&D, Keppel: 2024)
+    [15] Data Centre Power Banking: Initiatives for India, Thailand and More (D&D, Keppel: 2024)
     [14] SUR Solutions: Smart Lighting Optimization (D&D, Keppel: 2024)
     [13] SUR Solutions: AHU and Chiller Plant Analyses & Optimizations (D&D, Keppel: 2024)
     [12] JCI Data Integration with Snowflake (D&T and KTI, Keppel: 2022-Present Ongoing)
@@ -73,11 +76,23 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Projects - Details
 
+## [19] Investor IQ POC (D&D, Keppel: 2025)
+    1) Colate data from multi-sources, like web-scraping
+    2) Leverage GenAI (e.g. LLMs) to analyze and generate business insights and intelligence 
+
+## [18] RE AWS IoT Platform POC (D&D, Keppel: 2025)
+    1) Transform current data pipeline into AWS
+    2) Implement AI/ML models for predictive maintenance and operation optimization
+
+## [17] Spring City Resort Digitalization (D&D, Keppel: 2025)
+    1) Explore and cleanse historical data from stakeholders
+    2) Build and analyze the cleaned data for business insights and intelligence
+    
 ## [16] Microsoft Fabric POC: Research on Data Sciences
     1) Explore and research on data sciences capability on Fabric
     2) Build, evaluate and deploy ML-based models and respective metrics
     
-## [15] Data Centre Land Banking: Initiatives for India and Thailand
+## [15] Data Centre Land Banking: Initiatives for India, Thailand and More
     1) Analyze global researches, reports, and data from related websites on relevant topics
     2) Develop supply-demand models for data centre in India and Thailand
     3) Develop predictive models for forecasting next few years' trending on DC sites
@@ -154,11 +169,13 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Publications
 
+[[31]]() **Deqing Zhai**, Book Chatper "360 Study on Indoor Built Environment for Office Occupants", Sustainable Built Environment for People and Society, [2025].
+
 [[30]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Optimizing Chiller Plant towards Carbon Neutrality by Leveraging Weather Forecast Model: A Case Study of An Office Building in Singapore", 2024 IEEE 50th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Chicago, USA, [2024].
 
-[[29]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Conserving Energy of Office Lighting by Smart Features in Singapore Buildings", 2024 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2024].
+[[29]](https://ieeexplore.ieee.org/document/10665020) **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Conserving Energy of Office Lighting by Smart Features in Singapore Buildings", 2024 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2024].
 
-[[28]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Predicting Carbon Dioxide Levels for Built Environment of Flexible and Hot-desking Offices in Different Scenarios", 2024 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2024].
+[[28]](https://ieeexplore.ieee.org/document/10664986) **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Predicting Carbon Dioxide Levels for Built Environment of Flexible and Hot-desking Offices in Different Scenarios", 2024 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2024].
 
 [[27]](https://ieeexplore.ieee.org/document/10311972) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Profiling Energy and Built Environment Performance of A Smart Building in Singapore: A Case Study of Multi-Periods of Covid-19 Pandemic", 2023 IEEE 49th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Singapore, [2023].
 
@@ -288,4 +305,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2024-08-30 19:03 (SGT)
+Last Updated: 2025-03-05 13:35 (SGT)
