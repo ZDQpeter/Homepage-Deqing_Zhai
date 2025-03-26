@@ -169,7 +169,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Publications
 
-[[31]]() **Deqing Zhai**, Book Chatper "360 Study on Indoor Built Environment for Office Occupants", Sustainable Built Environment for People and Society, IntechOpen [2025].
+[[31]](https://doi.org/10.31219/osf.io/aq9ve_v1) **Deqing Zhai**, "360 Reviews on Indoor Built Environment for Office Occupants", Open Science Framework (OSF), Environmental Design, Electrical and Computer Engineering, Computer Engineering, [2025].
 
 [[30]]() **Deqing Zhai**, Subodh Bahadure, Bryan Ong, Yeng Chai Soh, "Optimizing Chiller Plant towards Carbon Neutrality by Leveraging Weather Forecast Model: A Case Study of An Office Building in Singapore", 2024 IEEE 50th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Chicago, USA, [2024].
 
