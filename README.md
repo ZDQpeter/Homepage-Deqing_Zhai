@@ -92,7 +92,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     1) Explore and research on data sciences capability on Fabric
     2) Build, evaluate and deploy ML-based models and respective metrics
     
-## [15] Data Centre Land Banking: Initiatives for India, Thailand and More
+## [15] Data Centre Power Banking: Initiatives for India, Thailand and More
     1) Analyze global researches, reports, and data from related websites on relevant topics
     2) Develop supply-demand models for data centre in India and Thailand
     3) Develop predictive models for forecasting next few years' trending on DC sites
@@ -168,6 +168,9 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Publications
+[[33]] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of CN Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing] 
+
+[[32]] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of US Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing]
 
 [[31]](https://doi.org/10.31219/osf.io/aq9ve_v1) **Deqing Zhai**, "360 Reviews on Indoor Built Environment for Office Occupants", Open Science Framework (OSF), Environmental Design, Electrical and Computer Engineering, Computer Engineering, [2025].
 
@@ -305,4 +308,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2025-03-05 13:35 (SGT)
+Last Updated: 2025-07-04 14:12 (SGT)
