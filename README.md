@@ -11,7 +11,7 @@
     In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
-    In my Ph.D. study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
+    In my Ph.D. study, I focused on machine learning and optimization algorithms in the domain of AI x IoT (or called AIoT recently in short) applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
     I had been working in Department of Systems Science (SS) at Institute of High Performance Computing (IHPC) at Agency for Science, Technology and Research (A*STAR) as a research scientist from 2018 to 2021. After A*STAR, I had been working in Department of Digital & Technology and Department of Data & Digital at Keppel Ltd. as a chief data scientist (Exp.) and manager (DS) with AI/ML since 2021. The research interests focus on data analytics, AI/ML and optimization algorithm development over different domains of AI x IoT, such as maritime, supply chain, logistics, industrial production line, smart buildings, data centre, market analytics, etc. </p>
@@ -19,7 +19,7 @@
 <p align="justify">
     Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> 
     
-For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqingzhai) and [Zhihu](https://www.zhihu.com/people/peter-zhai-333/posts) for more fun articles written by myself.
+For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqingzhai) and [Zhihu (知乎)](https://www.zhihu.com/people/peter-zhai-333/posts) for more fun articles written by myself. Enjoy!
 
 
 -------------------------------------------------------------------
@@ -274,7 +274,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Interesting Projects (Partially Presented):
 
-[8] B2B Agentic Intelligence
+[8] B2B Agentic Intelligence (Powered by LLM)
 
 ![B2B Agentic Intelligence](./B2BAI.jpg)
 
@@ -312,4 +312,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2025-07-04 14:12 (SGT)
+Last Updated: 2025-07-29 14:12 (SGT)
