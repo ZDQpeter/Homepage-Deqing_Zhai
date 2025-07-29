@@ -11,10 +11,10 @@
     In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
-    In my Ph.D. study, I focused on machine learning and optimization algorithms in the domain of AI x IoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
+    In my Ph.D. study, I focused on machine learning and optimization algorithms in the domain of AIoT applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized Air-Conditioning and Mechanical Ventilation (ACMV) systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
-    I had been working in Department of Systems Science (SS) at Institute of High Performance Computing (IHPC) at Agency for Science, Technology and Research (A*STAR) as a research scientist from 2018 to 2021. After A*STAR, I had been working in Department of Digital & Technology and Department of Data & Digital at Keppel Ltd. as a data scientist (Exp.) and manager since 2021. The research interests focus on data analytics, machine learning and optimization algorithm development over different domains of AI x IoT, such as maritime, supply chain, logistics, industrial production line, smart buildings, data centre, market analytics, etc. </p>
+    I had been working in Department of Systems Science (SS) at Institute of High Performance Computing (IHPC) at Agency for Science, Technology and Research (A*STAR) as a research scientist from 2018 to 2021. After A*STAR, I had been working in Department of Digital & Technology and Department of Data & Digital at Keppel Ltd. as a chief data scientist (Exp.) and manager (DS) with AI/ML since 2021. The research interests focus on data analytics, AI/ML and optimization algorithm development over different domains of AI x IoT, such as maritime, supply chain, logistics, industrial production line, smart buildings, data centre, market analytics, etc. </p>
 
 <p align="justify">
     Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> 
@@ -40,7 +40,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Techniques
 
-## Machine Learning
+## AI/ML
     1) Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, K Nearest Neighbour, Random Forest, Gradient Boost, XGBoost.
     2) Unsupervised Learning: Multi Decomposed Gaussian Sampling, K-Means, Principal Component Analysis.
     3) Reinforcement Learning: Policy Gradient, Q-Learning.
@@ -273,6 +273,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Interesting Projects (Partially Presented):
+
+[8] B2B Agentic Intelligence
+
+![B2B Agentic Intelligence](./B2BAI1.jpg)
 
 [7] Macro-Economic Analytics GUI
 
