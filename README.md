@@ -278,7 +278,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ![B2B Agentic Intelligence](./B2BAI.jpg)
 
-[7] Macro-Economic Analytics GUI
+[7] Macro-Economic Analytics GUI (Powered by AI/ML)
 
 ![DC_by_DDA](./DC_by_DDA.jpg)
 
@@ -312,4 +312,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2025-07-29 14:12 (SGT)
+Last Updated: 2025-08-01 11:25 (SGT)
