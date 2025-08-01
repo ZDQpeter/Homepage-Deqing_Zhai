@@ -8,7 +8,7 @@
     I graduated both bachelor and Ph.D. degrees in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in the year of 2014 and 2018, respectively.</p>
 
 <p align="justify">
-    In my bachelor study, I specialized in control systems and clean energy branches, and graduated with First Class Honour and Dean's List. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.</p>
+    In my bachelor study, I specialized in control systems (automation) and power (clean energy) branches, and graduated with First Class Honour and Dean's List (Top 5) awarded. Besides study, I also joined some societies, such as IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
     In my Ph.D. study, I focused on machine learning and optimization algorithms in the domain of AI x IoT (or called AIoT recently in short) applications: smart buildings, such as energy efficiency and thermal comfort evaluations over centralized "Heating, Ventilation and Air-Conditioning (HVAC)" or "Air-Conditioning and Mechanical Ventilation (ACMV)" systems. I also joined in societies together with research and study, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
