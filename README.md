@@ -168,7 +168,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Publications
-[[32]] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of US Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing]
+[32] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of US Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing]
 
 [[31]](https://doi.org/10.31219/osf.io/aq9ve_v1) **Deqing Zhai**, "360 Reviews on Indoor Built Environment for Office Occupants", Open Science Framework (OSF), Environmental Design, Electrical and Computer Engineering, Computer Engineering, [2025].
 
