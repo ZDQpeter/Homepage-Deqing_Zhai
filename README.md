@@ -14,7 +14,7 @@
     In my Ph.D. study, I focused on artificial intelligence/machine learning (AI/ML) and optimization algorithms in the application domain of AI x IoT (or called AIoT recently in short), such as smart buildings, balancing energy efficiency and thermal comfort with respect to centralized "Heating, Ventilation and Air-Conditioning (HVAC)" or "Air-Conditioning and Mechanical Ventilation (ACMV)" systems. I also joined in communities of scientific researches, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
-    I had been working in Department of Computer Sciences (CS) and Systems Science (SS) at Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A*STAR) as a research scientist from Sep. 2018 to Nov. 2021. After A*STAR, I had been working in Department of Digital & Technology and Department of Data & Digital at Keppel Ltd. as a chief data scientist (Exp.) and manager (DS) with AI/ML since Nov. 2021. The research interests over this period of time focus on data analytics, AI/ML and optimization algorithm development across multiple application domains, such as smart building modelling and optimization, maritime traffic modelling, port efficiency optimization, supply chain prediction, logistics risk evaluation, hyper production line prediction, data centres supply-demand modelling, market analytics, macro-economic analytics, etc. </p>
+    I had been working in Department of Computer Sciences (CS) and Systems Science (SS) at Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A*STAR) as a co-principal investigator and research scientist from Sep. 2018 to Nov. 2021. After A*STAR, I had been working in Department of Data & Digital at Keppel Ltd. as a chief AI/ML data scientist (Exp.) and manager (DS) since Nov. 2021. The research interests over this period of time focus on data analytics, AI/ML and optimization algorithm development across various application domains, such as smart building modelling and optimization, maritime traffic modelling, port efficiency optimization, supply chain prediction, logistics risk evaluation, hyper production line prediction, data centres supply-demand modelling, market analytics, macro-economic analytics, etc. </p>
 
 <p align="justify">
     Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> 
@@ -32,7 +32,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     3) Optimization (Analytical-based, Heuristic-based, etc.)
 
 ## Domains
-    1) AI x IoT (e.g. Smart Cities/Buildings/Homes/HVAC/ACMV, etc.)
+    1) AIoT (e.g. Smart Cities/Buildings/Homes/HVAC/ACMV, etc.)
     2) Logistics/Supply Chain/Operation Research (e.g. Maritime/Land/Air, etc.)
     3) Healthcare (e.g. Diagnosis Classification, etc.)
 
@@ -168,9 +168,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Publications
-[33] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of CN Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing] 
-
-[32] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of US Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing]
+[[32]] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of US Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing]
 
 [[31]](https://doi.org/10.31219/osf.io/aq9ve_v1) **Deqing Zhai**, "360 Reviews on Indoor Built Environment for Office Occupants", Open Science Framework (OSF), Environmental Design, Electrical and Computer Engineering, Computer Engineering, [2025].
 
@@ -314,4 +312,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2025-08-01 11:25 (SGT)
+Last Updated: 2025-08-31 19:52 (SGT)
