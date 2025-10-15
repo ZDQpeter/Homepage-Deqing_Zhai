@@ -14,7 +14,7 @@
     In my Ph.D. study, I focused on artificial intelligence/machine learning (AI/ML) and optimization algorithms in the application domain of AI x IoT (or called AIoT recently in short), such as smart buildings, balancing energy efficiency and thermal comfort with respect to centralized "Heating, Ventilation and Air-Conditioning (HVAC)" or "Air-Conditioning and Mechanical Ventilation (ACMV)" systems. I also joined in communities of scientific researches, such as IEEE Student, INNS Student, IEEE Industrial Electronics Society (Singapore Chapter), IEEE NTU Student Chapter and NTU Astronomy Society.</p>
 
 <p align="justify">
-    I had been working in Department of Computer Sciences (CS) and Systems Science (SS) at Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A*STAR) as a Co-Principal Investigator and Research Scientist from Sep. 2018 to Nov. 2021. After A*STAR, I had been working in Department of Data & Digital at Keppel as a Chief AI/ML Data Scientist (Exp.) and Manager (DS) from Nov. 2021 to Oct. 2025. After Keppel, I have been working in Department of Building Automation, Centre of Excellence (CoE) at Honeywell as a Senior Advanced AI/ML Data Scientist (Exp.) since Oct. 2025. The research interests over this period of time focus on data analytics, AI/ML and optimization algorithm development across various application domains, such as smart building modelling and optimization, maritime traffic modelling, port efficiency optimization, supply chain prediction, logistics risk evaluation, hyper production line prediction, data centres supply-demand modelling, market analytics, macro-economic analytics, etc. </p>
+    I had been working in Department of Computer Sciences (CS) and Systems Science (SS) at Institute of High Performance Computing (IHPC) of Agency for Science, Technology and Research (A*STAR) as a Co-Principal Investigator and Research Scientist from Sep. 2018 to Nov. 2021. After A*STAR, I had been working in Department of Data & Digital at Keppel as a Chief AI/ML Data Scientist (Exp.) and Manager (DS) from Nov. 2021 to Oct. 2025. After Keppel, I currently have been working in Department of Building Automation, Centre of Excellence (CoE) at Honeywell as a Senior Advanced AI/ML Data Scientist (Exp.) since Oct. 2025. The research interests over this period of time focus on data analytics, AI/ML and optimization algorithm development across various application domains, such as smart building modelling and optimization, maritime traffic modelling, port efficiency optimization, supply chain prediction, logistics risk evaluation, hyper production line prediction, data centres supply-demand modelling, market analytics, macro-economic analytics, etc. </p>
 
 <p align="justify">
     Besides the abovementioned, I had also been in academic societies, such as IEEE Singapore Section, IEEE Young Professionals, IEEE Industrial Electronics Society, IEEE Smart Cities Ambassadors, Elsevier and Yaseen Panels.</p> 
@@ -76,6 +76,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Details
+
+## [20] Honeywell Forge Platform: Energy Baseline Modelling (BA CoE, Honeywell: 2025) 
+    1) Review and upgrade modelling algorithms logics on energy baseline
+    2) Integrate energy baseline models on Forge Platform
 
 ## [19] Investor IQ POC (D&D, Keppel: 2025)
     1) Colate data from multi-sources, like web-scraping
@@ -313,4 +317,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2025-08-31 19:52 (SGT)
+Last Updated: 2025-10-15 20:33 (SGT)
