@@ -52,7 +52,9 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Overview
-    [20] Honeywell Forge Platform: Energy Baseline Modelling (CoE, Honeywell: 2025) 
+    [22] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Optimization (EO) (CoE, Honeywell: 2025-Present)
+    [21] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Conservation Measures (ECM) (CoE, Honeywell: 2025-Present)
+    [20] Honeywell Forge Platform: Energy Baseline Modelling (CoE, Honeywell: 2025-Present) 
     [19] Investor IQ POC (D&D, Keppel: 2025)
     [18] RE AWS IoT Platform POC (D&D, Keppel: 2025)
     [17] Spring City Resort Digitalization (D&D, Keppel: 2025)
@@ -60,10 +62,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     [15] Data Centre Power Banking: Initiatives for India, Thailand and More (D&D, Keppel: 2024)
     [14] SUR Solutions: Smart Lighting Optimization (D&D, Keppel: 2024)
     [13] SUR Solutions: AHU and Chiller Plant Analyses & Optimizations (D&D, Keppel: 2024)
-    [12] JCI Data Integration with Snowflake (D&T and KTI, Keppel: 2022-Present Ongoing)
+    [12] JCI Data Integration with Snowflake (D&T and KTI, Keppel: 2022-2023)
     [11] 100-Day Leadership Challenge: Change Enabler Initiatives (D&T and CX, Keppel: 2022)
     [10] Customer 360: Retail Customer Analytics RFM-based Snowflake POC (D&T and KTI, Keppel: 2022)
-    [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-Present Ongoing)
+    [9] Smart Buildings: Sustainable Urban Renewal (SUR) for KBT Initiatives (D&T, Keppel: 2022-2024)
     [8] Singapore Food Agency (SFA): Food Supply Chain and System Modelling POC (IHPC, A*STAR: 2021)
     [7] Arcstone Programme: Real-time Schedule Optimization and Re-planning (C2) (IHPC, A*STAR: 2021)
     [6] Arcstone Programme: Living Simulation Model for Production Use-cases (C1) (IHPC, A*STAR: 2021)
@@ -77,7 +79,15 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Research Projects - Details
 
-## [20] Honeywell Forge Platform: Energy Baseline Modelling (BA CoE, Honeywell: 2025) 
+## [22] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Optimization (EO) (CoE, Honeywell: 2025-Present)
+    1) Analyze historical data from HVAC systems, such as AHU and Chiller Plants
+    2) Develop rule-based, AI/ML-based and physics-based models for proactive optmizations - Energy saving from energy baseline forecast
+
+## [21] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Conservation Measures (ECMs) (CoE, Honeywell: 2025-Present)
+    1) Develop ECMs based on cooling valve override, VSD fan speed override, AHU static pressure reset, chilled water supply temperature reset, etc.
+    2) Integrate ECNs on alpha, beta tests and in production deployment.
+
+## [20] Honeywell Forge Platform: Energy Baseline Modelling (CoE, Honeywell: 2025-Present) 
     1) Review and upgrade modelling algorithms logics on energy baseline
     2) Integrate energy baseline models on Forge Platform
 
@@ -317,4 +327,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2025-10-15 20:33 (SGT)
+Last Updated: 2026-03-23 19:37 (SGT)
