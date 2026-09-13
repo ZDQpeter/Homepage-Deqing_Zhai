@@ -81,11 +81,14 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 ## [22] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Optimization (EO) (CoE, Honeywell: 2025-Present)
     1) Analyze historical data from HVAC systems, such as AHU and Chiller Plants
-    2) Develop rule-based, AI/ML-based and physics-based models for proactive optmizations - Energy saving from energy baseline forecast
-
+    2) Develop AI/ML-based regression and physics-based mode for energy baseline forecast
+    3) Develop rule-based algorithms: Off-Coil Temperature (OCT), Return Air Temperature (RAT) and Supply Air Fan (SAP) Optimizations (RWS-POC1 Phase1)
+    4) Develop AI/ML-based time-series Memrory Model on HVAC setpoints forecasting
+    
 ## [21] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Conservation Measures (ECMs) (CoE, Honeywell: 2025-Present)
     1) Develop ECMs based on cooling valve override, VSD fan speed override, AHU static pressure reset, chilled water supply temperature reset, etc.
     2) Integrate ECNs on alpha, beta tests and in production deployment.
+    3) Develop LLM-based Insights and Recommendations for ECM Opportunities for energy optimization potentials
 
 ## [20] Honeywell Forge Platform: Energy Baseline Modelling (CoE, Honeywell: 2025-Present) 
     1) Review and upgrade modelling algorithms logics on energy baseline
@@ -183,6 +186,10 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Publications
+[[34]]() **Deqing Zhai**, Bryan Ong, Yeng Chai Soh, "Optimizing Chiller Plant towards Carbon Neutrality by Leveraging Weather Forecast Model: A Case Study of An Office Building in Singapore", 2026 IEEE 19th International Conference on Control, Automation, Robotics and Vision (ICARCV) @ Halong Bay, Vietnam, [2026].
+
+[[33]]() **Deqing Zhai**, Chun Wei Wong, Xin Yi Lim, Yeng Chai Soh, Subodh Bahadure, Magesh Lingan, Sachin Gupta, "Enhancing Operational Efficiency by Deep Learning to Detect Ramps in Air Handling Units", 2026 IEEE 19th International Conference on Control, Automation, Robotics and Vision (ICARCV) @ Halong Bay, Vietnam, [2026].
+
 [32] **Deqing Zhai**, “Understanding of Data Centre Behavior Models and Predicting Beyond: A Case Study of US Hyperscalers”, The Journal of Strategic Information Systems, [2025 Preparing]
 
 [[31]](https://doi.org/10.31219/osf.io/aq9ve_v1) **Deqing Zhai**, "360 Reviews on Indoor Built Environment for Office Occupants", Open Science Framework (OSF), Environmental Design, Electrical and Computer Engineering, Computer Engineering, [2025].
@@ -327,4 +334,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2026-03-23 19:37 (SGT)
+Last Updated: 2026-09-13 19:31 (SGT)
