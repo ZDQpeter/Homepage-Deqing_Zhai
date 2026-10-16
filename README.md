@@ -224,7 +224,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [[16]](https://ieeexplore.ieee.org/abstract/document/8978767) Haiyan Xu, Vasundhara Jayaraman, Xiuju Fu, Nasri Bin Othman, Wanbing Zhang, Xiao Feng Yin, **Deqing Zhai** and Rick Siow Mong Goh, "Efficient Compression and Preprocessing for Facilitating Large Scale Spatiotemporal Data Mining-A Case Study based on Automatic Identification System Data", 2019 IEEE International Conference on Industrial Engineering & Engineering Management (IEEM) @ Macau, China, [2019].
 
-[[15]](https://ieeexplore.ieee.org/document/8489214) **Deqing Zhai**, Tanaya Chaudhuri, Yeng Chai Soh, Xianhua Ou and Chaoyang Jiang, "Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants", 2018 IEEE World Congress on Computational Intelligence (WCCI) @ Rio de Janeiro, Brazil, [2018].
+[[15]](https://ieeexplore.ieee.org/document/8489214) **Deqing Zhai**, Tanaya Chaudhuri, Yeng Chai Soh, Xianhua Ou and Chaoyang Jiang, "Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants", 2018 IEEE World Congress on Computational Intelligence (WCCI) @ Rio de Janeiro, Brazil, pp. 1-7, [2018].
     
 [[14]](https://doi.org/10.1016/j.enbuild.2018.02.035) T. Chaudhuri, **Deqing Zhai**, Yeng Chai Soh, Hua Li and Lihua Xie, "Random forest based thermal comfort prediction from gender-specific physiological parameters using wearable sensing technology", Energy and Buildings, vol. 166, pp. 391–406, [2018].
     
