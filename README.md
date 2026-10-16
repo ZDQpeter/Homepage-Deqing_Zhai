@@ -212,7 +212,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [[22]](https://arxiv.org/abs/2204.04085) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin and Wanbing Zhang, "Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach", arXiv > Computer Science > Computational Engineering, Finance, and Science, [2021].
 
-[[21]](https://ieeexplore.ieee.org/document/9248206) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Wanbing Zhang, "Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation", 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, [2020].
+[[21]](https://ieeexplore.ieee.org/document/9248206) **Deqing Zhai**, Xiuju Fu, Haiyan Xu, Xiao Feng Yin, Vasundhara Jayaraman and Wanbing Zhang, "Multi-Layer Scheduling Optimization for Intelligent Mobility of Maritime Operation", 2020 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Kristiansand, Norway, pp. 1511-1514, [2020].
 
 [[20]](https://dr.ntu.edu.sg/handle/10220/48443) **Deqing Zhai**, "Modeling and optimization of ACMV systems for energy efficient smart buildings", Doctoral Thesis, Nanyang Technological University, Singapore, [2019].
 
