@@ -234,7 +234,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     
 [[11]](https://doi.org/10.1016/j.buildenv.2018.07.037) Gang Jing, Wenjian Cai, Haoran Chen, **Deqing Zhai**, Can Cui and Xiaohong Yin, "An air balancing method using support vector machine for a ventilation system", Building and Environment, vol. 143, pp. 487-495, [2018].
 
-[[10]](https://ieeexplore.ieee.org/document/8489069) Tanaya Chaudhuri, **Deqing Zhai**, Yeng Chai Soh, Hua Li, Lihua Xie and Xianhua Ou, "Convolutional Neural Network and Kernel Methods for Occupant Thermal State Detection using Wearable Technology", 2018 IEEE World Congress on Computational Intelligence (WCCI) @ Rio de Janeiro, Brazil, [2018].
+[[10]](https://ieeexplore.ieee.org/document/8489069) Tanaya Chaudhuri, **Deqing Zhai**, Yeng Chai Soh, Hua Li, Lihua Xie and Xianhua Ou, "Convolutional Neural Network and Kernel Methods for Occupant Thermal State Detection using Wearable Technology", 2018 IEEE World Congress on Computational Intelligence (WCCI) @ Rio de Janeiro, Brazil, pp. 1-8, [2018].
 
 [[9]](https://ieeexplore.ieee.org/document/8168568) **Deqing Zhai**, Tanaya Chaudhuri and Yeng Chai Soh, "Energy efficiency improvement with k-means approach to thermal comfort for acmv systems of smart buildings", 2017 IEEE Asian Conference on Energy, Power and Transportation Electrification(ACEPT) @ Marina Bay Sands, Singapore, pp. 203-208 [2017].
 
