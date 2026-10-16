@@ -202,7 +202,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 [[27]](https://ieeexplore.ieee.org/document/10311972) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Profiling Energy and Built Environment Performance of A Smart Building in Singapore: A Case Study of Multi-Periods of Covid-19 Pandemic", 2023 IEEE 49th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Singapore, [2023].
 
-[[26]](https://ieeexplore.ieee.org/document/10241825) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Evaluating Changing Extents of Built Environment from Singapore Measures against Covid-19: A Case Study of A Smart Building", 2023 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Ningbo, China, [2023].
+[[26]](https://ieeexplore.ieee.org/document/10241825) **Deqing Zhai**, Bryan Ong, Kamalpreet Kaur, Nick Leong, Esther Ho, Yeng Chai Soh, "Evaluating Changing Extents of Built Environment from Singapore Measures against Covid-19: A Case Study of A Smart Building", 2023 IEEE International Conference on Industrial Electronics and Applications (ICIEA) @ Ningbo, China, pp. 1869-1873, [2023].
 
 [[25]](https://arxiv.org/abs/2205.07945) **Deqing Zhai**, Xiuju Fu, Xiao Feng Yin, Haiyan Xu, Wanbing Zhang and Ning Li, "Constructing Trajectory and Predicting Estimated Time of Arrival for Long Distance Travelling Vessels: A Probability Density-based Scanning Approach", arXiv > Electrical Engineering and Systems Science > Systems and Control, [2022].
 
