@@ -266,9 +266,9 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 -------------------------------------------------------------------
 # Patents:
-[1] **Deqing Zhai**, Chun Wei Wong, Subodh Bahadure, Magesh Lingan and Sachin Gupta, "LLM-enabled Insights & Recommendations for Carbon and Energy Management (CEM) - Energy Conservative Measures (ECM)", Hoenywell IDF-251600, Patent Filed - Approved [2026-06-24].
+[1] **Deqing Zhai**, Chun Wei Wong, Subodh Bahadure, Magesh Lingan and Sachin Gupta, "LLM-enabled Insights & Recommendations for Carbon and Energy Management (CEM) - Energy Conservative Measures (ECM)", Honeywell IDF-251600, Patent Filed - Approved [2026-06-24].
 
-[2] **Deqing Zhai**, Harsha Mathur, Subodh Bahadure and Sachin Gupta, "Memory Model for Autonomous Optimization Continuity During Telemetry Loss", Hoenywell IDF-252463, Patent Filed - Approved [2026-09-24].
+[2] **Deqing Zhai**, Harsha Mathur, Subodh Bahadure and Sachin Gupta, "Memory Model for Autonomous Optimization Continuity During Telemetry Loss", Honeywell IDF-252463, Patent Filed - Approved [2026-09-24].
 
 -------------------------------------------------------------------
 
