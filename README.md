@@ -195,7 +195,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
     
 -------------------------------------------------------------------
 
-# Publications
+# Publications:
 [[34]]() **Deqing Zhai**, Bryan Ong, Yeng Chai Soh, "Optimizing Chiller Plant towards Carbon Neutrality by Leveraging Weather Forecast Model: A Case Study of An Office Building in Singapore", 2026 IEEE 19th International Conference on Control, Automation, Robotics and Vision (ICARCV) @ Halong Bay, Vietnam, [2026].
 
 [[33]]() **Deqing Zhai**, Chun Wei Wong, Xin Yi Lim, Yeng Chai Soh, Subodh Bahadure, Magesh Lingan, Sachin Gupta, "Enhancing Operational Efficiency by Deep Learning to Detect Ramps in Air Handling Units", 2026 IEEE 19th International Conference on Control, Automation, Robotics and Vision (ICARCV) @ Halong Bay, Vietnam, [2026].
@@ -263,6 +263,12 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 [[2]](https://ieeexplore.ieee.org/document/7603675) **Deqing Zhai**, Yeng Chai Soh and Wenjian Cai, "Operating points as communication bridge between energy evaluation with air temperature and velocity based on extreme learning machine (ELM) models", 2016 IEEE 11th International Conference on Industrial Electronics and Applications (ICIEA) @ Hefei, China, pp. 712–716 [2016].
 
 [1] **Deqing Zhai** and Yeng Chai Soh, "Research on indoor air-flow measurements and predictions with different methods", 2015 International OSA Network of Students (IONS), The Optical Society @ Nanjing, China, pp. 52–56 [2015].
+
+-------------------------------------------------------------------
+# Patents:
+[1] **Deqing Zhai**, Chun Wei Wong, Subodh Bahadure, Magesh Lingan and Sachin Gupta, "LLM-enabled Insights & Recommendations for Carbon and Energy Management (CEM) - Energy Conservative Measures (ECM)", IDF-251600, Approved to File this Patent [2026-06-24].
+
+[2] **Deqing Zhai**, Harsha Mathur, Subodh Bahadure and Sachin Gupta, "Memory Model for Autonomous Optimization Continuity During Telemetry Loss", IDF-252463, Approved to File this Patent [2026-09-24].
 
 -------------------------------------------------------------------
 
@@ -347,4 +353,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2026-11-10 15:15 (SGT)
+Last Updated: 2026-11-10 15:28 (SGT)
