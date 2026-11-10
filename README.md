@@ -269,7 +269,7 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 # Awards:
 
 [8] Bravo Award: Bronze Award for Innovate and Create Value for Customers
-![BravoAward_BronzeAward_2026](./2026-11-06 BronzeAward_Certificate.png)
+![BravoAward_BronzeAward_2026](./2026-11-06_BronzeAward_Certificate.png)
 
 [[7]](https://www.linkedin.com/feed/update/urn:li:activity:7200700987471192064/) Singapore Business Review Technology Excellence Awards @ AI + Real Estate Awarded [2024]
 ![SBR1 Awards 2024](./SBR_1.jpeg)
