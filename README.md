@@ -52,8 +52,11 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Overview
+    [25] Honeywell Forge Platform: EO Uptime Enhancement via Memory Models (2026)
+    [24] Honeywell-Resorts World Sentosa POC2 - Energy Optimization: District Cooling Plant 1&2 (2026-2027)
+    [23] Honeywell-Resorts World Sentosa POC1 - Energy Optimization: Resort World Convention Centre and Minion Land (2026)
     [22] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Optimization (EO) (CoE, Honeywell: 2025-Present)
-    [21] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Conservation Measures (ECM) (CoE, Honeywell: 2025-Present)
+    [21] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Conservation Measures (ECM) (CoE, Honeywell: 2025-2026)
     [20] Honeywell Forge Platform: Energy Baseline Modelling (CoE, Honeywell: 2025-Present) 
     [19] Investor IQ POC (D&D, Keppel: 2025)
     [18] RE AWS IoT Platform POC (D&D, Keppel: 2025)
@@ -78,13 +81,20 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 -------------------------------------------------------------------
 
 # Research Projects - Details
-
+## [25] Honeywell Forge Platform: EO Uptime Enhancement via Memory Models (2026)
+    1) Analysze historical datasets of telemetry and setpoint from facilities
+    2) Develop AI/ML-based time-series Memrory Models (Transformer, CNN and XGBoost) on HVAC setpoints forecasting
+## [24] Honeywell-Resorts World Sentosa POC2 - Energy Optimization: District Cooling Plant 1&2 (2026-2027)
+    1) Analyze historical datasets of District Cooling Plant 1&2
+    2) Develop optimization algorithms for integrated system energy optimization
+## [23] Honeywell-Resorts World Sentosa POC1 - Energy Optimization: Resort World Convention Centre and Minion Land (2026)
+    1) 3) Develop algorithms, such as:
+    Off-Coil Temperature (OCT), 
+    Return Air Temperature (RAT), and 
+    Supply Air Fan (SAF) Optimizations
 ## [22] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Optimization (EO) (CoE, Honeywell: 2025-Present)
     1) Analyze historical data from HVAC systems, such as AHU and Chiller Plants
     2) Develop AI/ML-based regression and physics-based mode for energy baseline forecast
-    3) Develop rule-based algorithms: Off-Coil Temperature (OCT), Return Air Temperature (RAT) and Supply Air Fan (SAP) Optimizations (RWS-POC1 Phase1)
-    4) Develop AI/ML-based time-series Memrory Model on HVAC setpoints forecasting
-    
 ## [21] Honeywell Forge Platform: Carbon & Energy Management (CEM) - Energy Conservation Measures (ECMs) (CoE, Honeywell: 2025-Present)
     1) Develop ECMs based on cooling valve override, VSD fan speed override, AHU static pressure reset, chilled water supply temperature reset, etc.
     2) Integrate ECNs on alpha, beta tests and in production deployment.
@@ -258,6 +268,8 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 # Awards:
 
+[8] Bravo Award: Bronze Award for Innovate and Create Value for Customers
+
 [[7]](https://www.linkedin.com/feed/update/urn:li:activity:7200700987471192064/) Singapore Business Review Technology Excellence Awards @ AI + Real Estate Awarded [2024]
 ![SBR1 Awards 2024](./SBR_1.jpeg)
 ![SBR2 Awards 2024](./SBR_2.jpg)
@@ -334,4 +346,4 @@ For more details, may also check my [LinkedIn](https://www.linkedin.com/in/deqin
 
 Any enquiry, please feel free to contact me via e-mail at: dzhai001 [at] e.ntu.edu.sg. 
 
-Last Updated: 2026-09-13 19:31 (SGT)
+Last Updated: 2026-11-10 14:59 (SGT)
